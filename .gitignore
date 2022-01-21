@@ -1,0 +1,29 @@
+*.Rproj.user
+*.Rhistory
+*.Ruserdata
+# Output data
+
+# Input Data
+dataRaw/Bm/*
+dataRaw/FTLE/*
+dataRaw/
+.Rproj.user
+.RDataTmp
+
+*.docx
+Output/DeploymentMap.html
+*.doc
+
+*.nc
+BlueWhaleLagrangianMethods_cache/*
+LagrangianMethods_cache/*
+BlueWhaleLagrangianMethods_files/*
+LagrangianMethods_files/*
+.RData
+Models/feed_glmmPQL_CompareCRW_CAR1_Hrs.rds
+Models/feed_glmmPQL_CRW_CAR1_Hrs.rds
+Models/feed_glmmPQL_FTLE_CAR1_Hrs.rds
+Models/feed_glmmPQL_p192_CAR1_Hrs.rds
+Models/feed_glmmPQL_p24_CAR1_Hrs.rds
+Models/feed_glmmPQL_p48_CAR1_Hrs.rds
+Models/feed_glmmPQL_p96_CAR1_Hrs.rds

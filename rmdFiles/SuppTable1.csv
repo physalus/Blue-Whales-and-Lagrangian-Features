@@ -1,0 +1,7 @@
+Model,Slope,p-Value
+Blue Whales,0.448,0.002
+Random Site Selection Model (CRW Tracks),-0.066,0.156
+Temporal (+24 hours),0.491,0.002
+Temporal (+48 hours),0.229,0.175
+Temporal (+96 hours),0.157,0.384
+Temporal (+192 hours),-0.371,0.034

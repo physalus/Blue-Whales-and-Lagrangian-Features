@@ -43,5 +43,4 @@ The repository is organized as follows:
 **Code, Text and Figures :** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 **Data :** [ODbL-1.0 Open Database License](https://opendatacommons.org/licenses/dbcl/1-0/)
-attribution requested in reuse
 

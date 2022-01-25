@@ -7,7 +7,7 @@ https://physalus.github.io/Blue-Whales-and-Lagrangian-Features/
 All main text figures (1-5) and supplemental figures are generated using the scripts found in the main directory and data found in the folders in this repository, however most are then brought into Adobe Illustrator for final figure composition. 
 
 The repository is organized as follows:
-* **Main directory:** all scripts
+* [:file\_folder: Main](/): all scripts 
   * BlueWhaleLagrangianMethods.Rmd contains all of the analyses for the the manuscript and produces a PDF file when knitted
   * LagrangianMethods.Rmd is identical to BlueWhaleLagrangianMethods.Rmd but produces the HTML file found at the link above 
   * Appendix1_Blue_Whale_Data_Processing.R contains the processing steps for blue whale data including extracting FTLE (Requires the sub-directory "dataRaw")

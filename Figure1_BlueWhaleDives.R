@@ -25,7 +25,7 @@ source("./functions/ncdate.R")
 source("./functions/pt2pt_fxns.R")
 
 load("./dataProcessed/dataset1hz.RData")
-lungeFile <- "./dataRaw/Bm/Bm170622-TDR12 lunges.mat" 
+lungeFile <- "./Figure_files/Figure1-BmSubset/Bm170622-TDR12 lunges.mat" 
 lunges = readMat(lungeFile)
 lungeDT <- round_date(as.POSIXct((lunges$LungeDN - 719529)*86400, origin = "1970-01-01", tz = 'GMT'),unit = "seconds")
 lunge_dttz  <- force_tz(lungeDT,tzone="Etc/GMT+7") # Force TZ
@@ -80,11 +80,11 @@ ggplot() +
         legend.key = element_rect(fill=NA,color=NA),
         legend.key.size = unit(1,"cm"),
         legend.position = "top")
-ggsave("Output/Figure1D.png", width=12, height=4, units = "in", dpi=400)
+ggsave("Output/Figure1B.png", width=12, height=4, units = "in", dpi=400)
 
 #### Blown up Dives ####
 # 8Hz prh exported from matlab
-prh8hzData <- readMat("./dataRaw/Figure_files/Figure1-BmSubset/Bm170622-TDR12 8HzprhSubset.mat") 
+prh8hzData <- readMat("./Figure_files/Figure1-BmSubset/Bm170622-TDR12 8HzprhSubset.mat") 
 prh_DF <- data.frame(p=prh8hzData$p,DN=prh8hzData$DN,pitch=prh8hzData$pitch,roll=prh8hzData$roll,speed = prh8hzData$speedJJ)
 
 prh_DF$dttz <- as.POSIXct((prh_DF$DN - 719529)*86400, origin = "1970-01-01", tz = 'GMT')
@@ -140,7 +140,7 @@ speedNF <- ggplot()+
         axis.text = element_text( face="bold", size=18))
 
 ggarrange(pNF,pitchNF,rollNF,speedNF, nrow=4,heights = c(1.5,1,1,1),align="v")
-ggsave("Output/Figure1NotFeeding.png", width=16, height=10, units = "in", dpi=400)
+ggsave("./Output/Figure1NotFeeding.png", width=16, height=10, units = "in", dpi=400)
 
 ## Feeding Dive
 prhSubF <- prh_DF %>% 
@@ -212,6 +212,6 @@ speedF <- ggplot()+
         axis.text = element_text( face="bold", size=18))
 
 ggarrange(pF,pitchF,rollF,speedF, nrow=4,heights = c(1.5,1,1,1),align="v")
-ggsave("Output/Figure1Feeding.png", width=16, height=10, units = "in", dpi=400)
+ggsave("./Output/Figure1Feeding.png", width=16, height=10, units = "in", dpi=400)
 
 

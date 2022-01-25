@@ -6,7 +6,8 @@
 # Input Data
 dataRaw/Bm/*
 dataRaw/FTLE/*
-dataRaw/
+dataRaw/RawHFRadarData/*
+dataRaw/RestoredHFRadarData/*
 .Rproj.user
 .RDataTmp
 

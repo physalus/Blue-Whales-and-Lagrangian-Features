@@ -127,17 +127,48 @@ hfRadarStns$name <- "Radar Station"
 
 ## Load CAR1 models
 # Real Data Model
-feed_glmmPQL_FTLE_CAR1_Hrs <- readRDS("./Models/feed_glmmPQL_FTLE_CAR1_Hrs.rds")
+if (file.exists("./Models/feed_glmmPQL_FTLE_CAR1_Hrs.rds")) {
+  feed_glmmPQL_FTLE_CAR1_Hrs <- readRDS("./Models/feed_glmmPQL_FTLE_CAR1_Hrs.rds")
+} else { 
+  cat(paste0("Could not find ./Models/feed_glmmPQL_FTLE_CAR1_Hrs.rds, will need to recreate below."))
+}
+
 # Time-Shifted Models
-feed_glmmPQL_p24_CAR1_Hrs <- readRDS("./Models/feed_glmmPQL_p24_CAR1_Hrs.rds")
-feed_glmmPQL_p48_CAR1_Hrs <- readRDS("./Models/feed_glmmPQL_p48_CAR1_Hrs.rds")
-feed_glmmPQL_p96_CAR1_Hrs <- readRDS("./Models/feed_glmmPQL_p96_CAR1_Hrs.rds")
-feed_glmmPQL_p192_CAR1_Hrs <- readRDS("./Models/feed_glmmPQL_p192_CAR1_Hrs.rds")
+if (file.exists("./Models/feed_glmmPQL_p24_CAR1_Hrs.rds")) {
+  feed_glmmPQL_p24_CAR1_Hrs <- readRDS("./Models/feed_glmmPQL_p24_CAR1_Hrs.rds")
+} else { 
+  cat(paste0("Could not find ./Models/feed_glmmPQL_p24_CAR1_Hrs.rds, will need to recreate below."))
+}
+if (file.exists("./Models/feed_glmmPQL_p48_CAR1_Hrs.rds")) {
+  feed_glmmPQL_p48_CAR1_Hrs <- readRDS("./Models/feed_glmmPQL_p48_CAR1_Hrs.rds")
+} else { 
+  cat(paste0("Could not find ./Models/feed_glmmPQL_p48_CAR1_Hrs.rds, will need to recreate below."))
+}
+if (file.exists("./Models/feed_glmmPQL_p96_CAR1_Hrs.rds")) {
+  feed_glmmPQL_p96_CAR1_Hrs <- readRDS("./Models/feed_glmmPQL_p96_CAR1_Hrs.rds")
+} else { 
+  cat(paste0("Could not find ./Models/feed_glmmPQL_p96_CAR1_Hrs.rds, will need to recreate below."))
+}
+if (file.exists("./Models/feed_glmmPQL_p192_CAR1_Hrs.rds")) {
+  feed_glmmPQL_p192_CAR1_Hrs <- readRDS("./Models/feed_glmmPQL_p192_CAR1_Hrs.rds")
+} else { 
+  cat(paste0("Could not find ./Models/feed_glmmPQL_p192_CAR1_Hrs.rds, will need to recreate below."))
+}
+
 # Simulated Tracks Model
-feed_glmmPQL_CRW_CAR1_Hrs <- readRDS("./Models/feed_glmmPQL_CRW_CAR1_Hrs.rds")
+if (file.exists("./Models/feed_glmmPQL_CRW_CAR1_Hrs.rds")) {
+  feed_glmmPQL_CRW_CAR1_Hrs <- readRDS("./Models/feed_glmmPQL_CRW_CAR1_Hrs.rds")
+} else { 
+  cat(paste0("Could not find ./Models/feed_glmmPQL_CRW_CAR1_Hrs.rds, will need to recreate below."))
+}
+
 # Comparison
-feed_glmmPQL_CompareCRW_CAR1_Hrs <-
-  readRDS("./Models/feed_glmmPQL_CompareCRW_CAR1_Hrs.rds")
+if (file.exists("./Models/feed_glmmPQL_CompareCRW_CAR1_Hrs.rds")) {
+  feed_glmmPQL_CompareCRW_CAR1_Hrs <-
+    readRDS("./Models/feed_glmmPQL_CompareCRW_CAR1_Hrs.rds")
+} else { 
+  cat(paste0("Could not find ./Models/feed_glmmPQL_CompareCRW_CAR1_Hrs.rds, will need to recreate below."))
+}
 
 # Create a dataframe with no missing FTLE vales and columns for grouping and plotting
 data_Gamm_ALL <- datasetFTLE %>% 

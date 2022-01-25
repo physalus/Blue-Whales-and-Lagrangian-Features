@@ -1,0 +1,101 @@
+{
+    "InputDataset": {
+        "DatasetOpenDapURL": "http://transport.me.berkeley.edu/thredds/dodsC/public/Goldbogen-Lab/Restored/SurfaceCurrentMS/Bm170926-TDR14_HFRADAR_US_West_Coast_6km_Resolution_Hourly_Restored.nc",
+        "MultipleInputFiles": {
+            "ProcessMultipleFiles": false,
+            "MultipleFilesMinimumIteratorString": "",
+            "MultipleFilesMaximumIteratorString": ""
+        },
+        "Windage": {
+            "ApplyWindage": false,
+            "WindageCoefficient": "0.0015"
+        },
+        "Land": {
+            "ApplyLand": true,
+            "DetectLandFromVelocity": false,
+            "ApplyFreeSlipBoundaryCondition": true
+        },
+        "UseSphericalCoordinateSystem": false
+    },
+    "OutputDataset": {
+        "Variables": {
+            "WriteTracerCoordinates": true,
+            "ComputeVelocityGradient": false,
+            "ComputeCauchyGreen": false,
+            "ComputeFTLE": false
+        },
+        "Visualization": {
+            "VisualizeTracers": false,
+            "VisualizeVelocityDivergence": false,
+            "VisualizeVorticity": false,
+            "VisualizeFTLE": false
+        }
+    },
+    "Times": {
+        "InitialTime": {
+            "Year": "2017",
+            "Month": "09",
+            "Day": "26",
+            "Hour": "21",
+            "Minute": "00",
+            "Second": "00"
+        },
+        "MultipleInitialTimes": {
+            "ProcessMultipleInitialTimes": "0",
+            "NumberOfInitialStarts": "2",
+            "InitialTimeIncrement": {
+                "Day": "0",
+                "Hour": "00",
+                "Minute": "15",
+                "Second": "00"
+            }
+        },
+        "IntegrationDuration": {
+            "Day": "2",
+            "Hour": "00",
+            "Minute": "00",
+            "Second": "00"
+        },
+        "NumberOfTimeObservations": "49",
+        "ReverseTimeDirection": false
+    },
+    "Tracers": {
+        "GeneratePointsInDomainMethod": "GridMethod",
+        "GridMethod": {
+            "Resolution": {
+                "UseDatasetGridResolution": false,
+                "LongitudeResolution": "470",
+                "LatitudeResolution": "410"
+            },
+            "Bounds": {
+                "UseDatasetGridBounds": true,
+                "MinLongitude": "-121.6148452758789",
+                "MaxLongitude": "-118.7414321899414",
+                "MinLatitude": "33.108821868896484",
+                "MaxLatitude": "35.26641845703125"
+            },
+            "WriteToNetCDFFileAsStructuredGrid": true
+        },
+        "RandomMethod": {
+            "NumPoints": "1000",
+            "Bounds": {
+                "UseDatasetGridBounds": true,
+                "MinLongitude": "-121.6148452758789",
+                "MaxLongitude": "-118.7414321899414",
+                "MinLatitude": "33.108821868896484",
+                "MaxLatitude": "35.26641845703125"
+            }
+        }
+    },
+    "Solver": {
+        "IntegrationMethod": "RKF45",
+        "UseBicubicSplineInterpolation": false,
+        "IntegratorSettings": {
+            "MaxIterations": "5000",
+            "InitialAdaptiveTimeStep": "1e-0",
+            "MinAdaptiveTimeStep": "1e-8",
+            "MaxAdaptiveTimeStep": "1.0",
+            "RelativeErrorTolerance": "1e-5"
+        }
+    }
+}

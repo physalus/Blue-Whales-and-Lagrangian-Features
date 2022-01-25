@@ -37,7 +37,6 @@ pkgTest("stats")
 world <- ne_countries(scale = "large", returnclass = "sf")
 
 load("./dataProcessed/datasetFTLE.RData") # Load the processed dive+FTLE dataframe
-dep_metadata <- read.csv(paste0(getwd(),"./dataRaw/DeploymentMetadata.csv") , sep=",",header=TRUE)
 
 #### Panel A - Map of Deployments ####
 hourlySum <- datasetFTLE %>% 
@@ -110,11 +109,10 @@ ggsave("./Output/FTLE_Map_Fig2a.png", width=8, height=14, units = "in", dpi=400)
 # We are wanting the tracers for 9.28.2017 14:00 PST (Layer 77) to align with the FTLE in Figure 1
 
 depid <- "Bm170926-TDR14"
-# find tz_Offset, region and location (from external file)
-tzOffset <- dep_metadata %>% filter(ID == depid) %>% .$tzOffset %>% as.character()
+tzOffset <- "Etc/GMT+7"
 
 # File to be converted
-ncname_Tracers <- "./dataRaw/Figure_files/Figure2-Tracers/Bm170926-TDR14_Tracers.nc"# file.choose()
+ncname_Tracers <- "./Figure_files/Figure2-Tracers/Bm170926-TDR14_Tracers.nc"# file.choose()
 convertName <- str_remove(basename(ncname_Tracers),"\\.nc")
 ncin_Tracers <- nc_open(ncname_Tracers)
 tracerLatitudes <- ncvar_get(ncin_Tracers,"Tracer_Latitudes")
@@ -200,14 +198,15 @@ depid <- "Bm170926-TDR14"
 # filter by ID and remove dives without location data
 data_Sub <- datasetFTLE %>% filter(depid == "Bm170926-TDR14",
                                    !is.na(Lat),!is.na(Long))
-ncin_FTLE48 <- nc_open(paste0(FTLEdatapath,depid,"_FTLE_48Hrs.nc"), verbose=FALSE)
+
+ncin_FTLE48 <- nc_open("./Figure_files/Figure2-FTLE/Bm170926-TDR14_FTLE_48Hrs.nc", verbose=FALSE)
 # FTLE Time (All have the same time dimension)
 time_FTLE <- ncdate(ncin_FTLE48)
 # convert to local time 
 time_FTLE_Local <- time_FTLE
 attr(time_FTLE_Local, "tzone") <- tzOffset # change the timezone to tzOffset
 # Create a FTLE Raster Stack for quantiles
-FTLE_stack48 <- stack(paste0(FTLEdatapath,depid,"_FTLE_48Hrs.nc"), varname = "FTLE")
+FTLE_stack48 <- stack("./Figure_files/Figure2-FTLE/Bm170926-TDR14_FTLE_48Hrs.nc", varname = "FTLE")
 # Feeding Colors
 # Dark 3 green and purple
 colFeed <- c("Feeding" = "#00AA5A", "Not Feeding" = "#B675E0")

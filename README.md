@@ -18,7 +18,7 @@ The repository is organized as follows:
 * [:file\_folder: dataProcessed](https://github.com/physalus/Blue-Whales-and-Lagrangian-Features/dataProcessed): all processed data used in the analyses of this manuscript
   * Files include the outputs from Appendix1_Blue_Whale_Data_Processing.R and Appendix2_Null_Model_Data_Processing.R, and are used as inputs to BlueWhaleLagrangianMethods.Rmd
 * [:file\_folder: Figure_files](https://github.com/physalus/Blue-Whales-and-Lagrangian-Features/Figure_files): all additional data used to produce figures 1 and 2 of this manuscript
-* [:file\_folder: rmdFiles](https://github.com/physalus/Blue-Whales-and-Lagrangian-Features/rmdFiles): Files associates with the creation of the knitted R-markdown PDF and HTML files 
+* [:file\_folder: rmdFiles](https://github.com/physalus/Blue-Whales-and-Lagrangian-Features/rmdFiles): Files associated with the creation of the knitted R-markdown PDF and HTML files 
 * [:file\_folder: Output](https://github.com/physalus/Blue-Whales-and-Lagrangian-Features/Output): Plots that are exported during the knitting process and data precessing steps
 * [:file\_folder: functions](https://github.com/physalus/Blue-Whales-and-Lagrangian-Features/functions): Custom functions used this analysis
 * [:file\_folder: PackageReferences](https://github.com/physalus/Blue-Whales-and-Lagrangian-Features/PackageReferences): bibtex citations for publicly-available software packages used in this analysis

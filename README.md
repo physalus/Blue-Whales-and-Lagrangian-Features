@@ -7,14 +7,14 @@ https://physalus.github.io/Blue-Whales-and-Lagrangian-Features/
 All main text figures (1-5) and supplemental figures are generated using the scripts found in the main directory and data found in the folders in this repository, however most are then brought into Adobe Illustrator for final figure composition. 
 
 The repository is organized as follows:
-* [:file\_folder: Main](/): all scripts 
+* [:file\_folder: Main directory](/Blue-Whales-and-Lagrangian-Features/): all scripts 
   * BlueWhaleLagrangianMethods.Rmd contains all of the analyses for the the manuscript and produces a PDF file when knitted
   * LagrangianMethods.Rmd is identical to BlueWhaleLagrangianMethods.Rmd but produces the HTML file found at the link above 
   * Appendix1_Blue_Whale_Data_Processing.R contains the processing steps for blue whale data including extracting FTLE (Requires the sub-directory "dataRaw")
   * Appendix2_Null_Model_Data_Processing.R contains the processing steps for creating null model data including extracting FTLE (Requires the sub-directory "dataRaw")
   * Figure1_BlueWhaleDives.R produces the panels for figure 1 in the manuscript
   * Figure2_MapTracersFTLE.R produces the panels for figure 2 in the manuscript     
-* **Sub-directory "dataProcessed":** all processed data used in the analyses of this manuscript
+* [:file\_folder: dataProcessed](/Blue-Whales-and-Lagrangian-Features/dataProcessed/): all processed data used in the analyses of this manuscript
   * Files include the outputs from Appendix1_Blue_Whale_Data_Processing.R and Appendix2_Null_Model_Data_Processing.R, and are used as inputs to BlueWhaleLagrangianMethods.Rmd
 * **Sub-directory "Figure_files":** all additional data used to produce figures 1 and 2 of this manuscript
 * **Sub-directory "rmdFiles":** Files associates with the creation of the knitted R-markdown PDF and HTML files 

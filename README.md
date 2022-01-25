@@ -37,3 +37,11 @@ The repository is organized as follows:
   * FTLEMetadata.xlsx contains the settings used to calculate FTLE for each deployment
 * [:file\_folder: Models](https://github.com/physalus/Blue-Whales-and-Lagrangian-Features/tree/main/Models): contains the processed GLMM models in .rds format.  
   * *These files are the Generalized Linear Mixed Effects Models produced in the analysis and ake a considerable amount of time and processing power to produce.*
+
+### Licenses
+
+**Code, Text and Figures :** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+**Data :** [ODbL-1.0 Open Database License](https://opendatacommons.org/licenses/dbcl/1-0/)
+attribution requested in reuse
+

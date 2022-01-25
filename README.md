@@ -1,5 +1,6 @@
 # Blue Whales and Lagrangian Features
- This repository contains the code and processed data to generate the analysis and figures in the manuscript **"Blue whales increase feeding rates at fine-scale ocean features"** (currently in submission). Authors: James A. Fahlbush, Max F. Czapanskiy, John Calambokidis, David E. Cade, Briana Abrahms, Elliott L. Hazen and Jeremy A. Goldbogen
+ This repository contains the code and processed data to generate the analysis and figures in the manuscript **"Blue whales increase feeding rates at fine-scale ocean features"** (currently in submission). 
+ Authors: James A. Fahlbush, Max F. Czapanskiy, John Calambokidis, David E. Cade, Briana Abrahms, Elliott L. Hazen and Jeremy A. Goldbogen
 
 A knitted R-Markdown with all of the Methods and Results (including the code to produce them) can be found at:
 https://physalus.github.io/Blue-Whales-and-Lagrangian-Features/
@@ -7,7 +8,7 @@ https://physalus.github.io/Blue-Whales-and-Lagrangian-Features/
 All main text figures (1-5) and supplemental figures are generated using the scripts found in the main directory and data found in the folders in this repository, however most are then brought into Adobe Illustrator for final figure composition. 
 
 The repository is organized as follows:
-* [:file\_folder: Main directory](/Blue-Whales-and-Lagrangian-Features/): all scripts 
+* [:file\_folder: Main directory](https://github.com/physalus/Blue-Whales-and-Lagrangian-Features): all scripts 
   * BlueWhaleLagrangianMethods.Rmd contains all of the analyses for the the manuscript and produces a PDF file when knitted
   * LagrangianMethods.Rmd is identical to BlueWhaleLagrangianMethods.Rmd but produces the HTML file found at the link above 
   * Appendix1_Blue_Whale_Data_Processing.R contains the processing steps for blue whale data including extracting FTLE (Requires the sub-directory "dataRaw")

@@ -36,6 +36,8 @@
   
   # Helper functions specific to this analysis
   `%notin%` <- Negate(`%in%`)
+  # Download HF Radar data
+  source('./functions/hfRadar_Download.R')
   # Process netCDF file dates and times
   source("./functions/ncdate.R")
   # Finds Point to Point metrics

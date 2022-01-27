@@ -36,6 +36,11 @@ pkgTest("rgdal")
 pkgTest("stats")
 pkgTest("adehabitatHR")
 
+# Download HF Radar data
+source('./functions/hfRadar_Download.R')
+# Process netCDF file dates and times
+source("./functions/ncdate.R")
+
 set.seed(1516)
 
 ## Load Pre-processed Data

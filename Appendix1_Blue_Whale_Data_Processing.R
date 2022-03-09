@@ -400,7 +400,7 @@
   save(lungeDataset, file="./dataProcessed/lungeDataset.RData")
  
 #### Process Surface Current Data ####
- ## Download HF Radar data, Import Raw Radar data, Extract Radar Precision Metrics (HDOP, Radials, Sites),
+ ## Download HF Radar data
   # NOTE: This script downloads SC data with a numDays buffer on either end of the deployment, and
   # adds a degreeBuffer around the deployment points to avoid edge-effects
   useOldNC <- TRUE # if true, script will search for a local NC file before downloading a new one

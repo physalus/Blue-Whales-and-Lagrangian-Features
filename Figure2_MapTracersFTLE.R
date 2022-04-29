@@ -33,13 +33,34 @@ pkgTest("mapdata")
 pkgTest("metR")
 pkgTest("rgdal")
 pkgTest("stats")
-
+source("./functions/ncdate.R")
 world <- ne_countries(scale = "large", returnclass = "sf")
 
 load("./dataProcessed/datasetFTLE.RData") # Load the processed dive+FTLE dataframe
-
+# Create a dataframe with no missing FTLE vales and columns for grouping and plotting
+data_Gamm_ALL <- datasetFTLE %>% 
+  # Only include Dives with FTLE data
+  dplyr::filter(is.nan(ftle48)==0, is.na(ftle48)==0) %>% 
+  group_by(depid) %>% 
+  # Add a time Variable for the AR1 correlation structure 
+  mutate(time = startI-min(startI),
+         timeHrs = time/3600,
+         # Add a binary Foraging field for Logistic Regression 
+         Foraging = if_else(LungeCount > 0,1,0),
+         # Add a hourly feeding rate for use in HMM
+         total_Duration = dive_Duration + surf_Duration,
+         feedingRateHR = LungeCount/total_Duration*60) %>% 
+  ungroup()
+load("./Figure_files/Figure2-MapData/HFRadarCoverageMCP.RData")
+load("./Figure_files/Figure2-MapData/bf.RData")
+load("./Figure_files/Figure2-MapData/hfRadarStations.RData")
+# HF Radar Coverage Area and Station Locations
+hfRadarStns$name <- "Radar Station"
+# filter by ID and remove dives without location data
+data_Sub <- datasetFTLE %>% filter(depid == "Bm170926-TDR14",
+                                   !is.na(Lat),!is.na(Long))
 #### Panel A - Map of Deployments ####
-hourlySum <- datasetFTLE %>% 
+hourlySum <- data_Gamm_ALL %>% 
   mutate(yday = yday(dttzStart),
          hr = hour(dttzStart)) %>% 
   group_by(depid,yday, hr) %>% 
@@ -72,7 +93,8 @@ p1<-ggplot() +
 
   geom_point(data=hfRadarStns,
              aes(st_coordinates(hfRadarStns$geometry)[,1],st_coordinates(hfRadarStns$geometry)[,2],
-                 shape = name),size=2.5, fill = 'magenta') +
+                 shape = name),color="black",size=2.5,stroke=1.5,
+             fill = 'white') +
   scale_alpha_manual(values=c("Coverage Area"=.15))+
   scale_shape_manual(values = c("Radar Station" = 23))+
   coord_sf(xlim = c(min(data_Gamm_ALL$Long,na.rm = TRUE)-.05, max(data_Gamm_ALL$Long,na.rm = TRUE)+.05),
@@ -142,11 +164,13 @@ bwOISum <- bwOI %>%
 pT<-ggplot() +
   geom_sf(data = world,color=NA,fill=NA) +
   geom_point(data=tracerLocs, aes(x=Longs,y=Lats  ),shape=21,size=1.75,color='black',fill='grey')+
-  geom_sf(data = world, size=1.25,fill="darkgrey",color="black") +
+  geom_sf(data = world, size=.75,fill="grey") +
   geom_point(data=hfRadarStns,
-             aes(st_coordinates(hfRadarStns$geometry)[,1],st_coordinates(hfRadarStns$geometry)[,2],
+             aes(st_coordinates(hfRadarStns$geometry)[,1],
+                 st_coordinates(hfRadarStns$geometry)[,2],
                  shape = name),
-             fill = 'magenta', shape=23, show.legend = FALSE) +
+             color="black",size=2.5,stroke=1.5,
+             fill = 'white', shape=23, show.legend = FALSE) +
   scale_size_manual(values = c("Radar Station" = 3), name="High Frequency Radar") +
   coord_sf(xlim = c(-120.7, -119.5), 
            ylim = c(33.88, 34.48), expand = FALSE) +
@@ -195,9 +219,7 @@ ggsave(sprintf("Output/%s_Tracers_%03i.png", "Bm170926-TDR14", i ), width=12, he
 #### Panel C - FTLE ####
 FTLEdatapath <- "./dataRaw/FTLE/"
 depid <- "Bm170926-TDR14"
-# filter by ID and remove dives without location data
-data_Sub <- datasetFTLE %>% filter(depid == "Bm170926-TDR14",
-                                   !is.na(Lat),!is.na(Long))
+
 
 ncin_FTLE48 <- nc_open("./Figure_files/Figure2-FTLE/Bm170926-TDR14_FTLE_48Hrs.nc", verbose=FALSE)
 # FTLE Time (All have the same time dimension)
@@ -279,11 +301,12 @@ pF<-ggplot() +
              show.legend = FALSE, alpha = 1,  
              fill="#00BE70") +
   geom_label(data = bwOISum, mapping = aes(x=Long,y=Lat, label = Lunges),label.size = NA, fill=NA, fontface="bold")+
-  geom_sf(data = world, size=1.25,fill="darkgrey",color="black") +
+  geom_sf(data = world, size=.75,fill="gray") +
   geom_point(data=hfRadarStns, aes(st_coordinates(hfRadarStns$geometry)[,1],
                                    st_coordinates(hfRadarStns$geometry)[,2],
                                    size = name), 
-             fill = 'magenta', shape=23, show.legend = FALSE) +
+             color="black",size=2.5,stroke=1.5,
+             fill = 'white', shape=23, show.legend = FALSE) +
   scale_shape_manual(values = c("Feeding" = 21, "Not Feeding" = 22), name = "Blue Whale Locations") +
   scale_discrete_manual("stroke",  values = c("Feeding" = 2, "Not Feeding" = 2), name = "Blue Whale Locations") +
   scale_size_manual(values = c("Radar Station" = 3), name="High Frequency Radar") +

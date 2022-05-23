@@ -1554,7 +1554,7 @@ estimatedFR <- feeding_rate_by_ftle %>%
       NinetyFifth=round(first(weightedFeedingHourly[FTLE >= weighted_quantile(
         x=bwAll$ftle48,w = bwAll$weight,probs = c(0.95),
         na.rm = TRUE)]),2))%>% 
-  mutate(Estimate = "Encountered Feeding Rate") %>% 
+  mutate(Estimate = "Estimated Feeding Rate") %>% 
   dplyr::select(Estimate,everything())
 colnames(estimatedFR) <- colnames(estimatedFTLE)
 
@@ -1562,3 +1562,18 @@ table2 <- rbind(estimatedFTLE,probs,estimatedFR)
 # write_csv(table2,file="./rmdFiles/Table2.csv")
 table2
 ```
+
+Percent increases in estimated feeding rates reported in the manuscript:
+```{r frIncreases,cache=TRUE, echo=TRUE, message=FALSE, warning=FALSE}
+# For 5th to 95th 
+overall_5th_to_95th <- (estimatedFR$`95%`-estimatedFR$`5%`)/estimatedFR$`5%`
+# For 5th to 50th 
+lower_5th_to_50th <- (estimatedFR$`50%`-estimatedFR$`5%`)/estimatedFR$`5%`
+# For 50th to 95th 
+upper_50th_to_95th <- (estimatedFR$`95%`-estimatedFR$`50%`)/estimatedFR$`50%`
+
+cat("For 5th to 95th: ",round(overall_5th_to_95th,2),
+    "\nFor 5th to 50th: ",round(lower_5th_to_50th,2),
+    "\nFor 50th to 95th: ",round(upper_50th_to_95th,2))
+```
+

@@ -162,14 +162,6 @@ if (file.exists("./Models/feed_glmmPQL_CRW_CAR1_Hrs.rds")) {
   cat(paste0("Could not find ./Models/feed_glmmPQL_CRW_CAR1_Hrs.rds, will need to recreate below."))
 }
 
-# Comparison
-if (file.exists("./Models/feed_glmmPQL_CompareCRW_CAR1_Hrs.rds")) {
-  feed_glmmPQL_CompareCRW_CAR1_Hrs <-
-    readRDS("./Models/feed_glmmPQL_CompareCRW_CAR1_Hrs.rds")
-} else { 
-  cat(paste0("Could not find ./Models/feed_glmmPQL_CompareCRW_CAR1_Hrs.rds, will need to recreate below."))
-}
-
 # Create a dataframe with no missing FTLE vales and columns for grouping and plotting
 data_Gamm_ALL <- datasetFTLE %>% 
   # Only include Dives with FTLE data
@@ -825,7 +817,7 @@ ggplot(data=testSet,aes(x=ftle48,y=fit)) +
 
 ### Null Model GLMMs
 
-To evaluate the Random Site Selection Model we used a mixed effects model with an interaction term (Real Data vs Simulated Data) to evaluate the significance of the relationship. 
+To evaluate the Random Site Selection Model we used a mixed effects model to evaluate the significance of the relationship. 
 
 For the temporal persistence analysis, we hypothesized that if FTLE features are location-specific and persistent for multiple days, we would observe the same relationship across all time-shifted models and the real data.
 
@@ -857,25 +849,6 @@ testSetSimmCRW$lwr <- logit2prob(SE_CRW$fit-SE_CRW$se.fit)
 testSetSimmCRW$upr <- logit2prob(SE_CRW$fit+SE_CRW$se.fit)
 testSetSimmCRW$model <- "CRW Tracks"
 summary(feed_glmmPQL_CRW_CAR1_Hrs)
-```
-
-##### Interaction Effect (CRW vs Real)
-
-We compared the results for blue whales to the Random Site Selection Model and found that the coefficients were significantly different between the models with a positive interaction effect between blue whales and FTLE.
-
-```{r crwComp, echo=TRUE, fig.height=8, fig.width=12, message=FALSE, warning=FALSE}
-if(!exists("feed_glmmPQL_CompareCRW_CAR1_Hrs")){
-  feed_glmmPQL_CompareCRW_CAR1_Hrs <- 
-    glmmPQL(Foraging ~ ftle48 + method + ftle48*method, 
-            random = ~ 1 | depid,
-            correlation=corCAR1(form=~timeHrs|depid),
-            family = binomial,
-            data = data_H_Tests[data_H_Tests$method %in% 
-                                  c("Real Data","CRW"),])
-  saveRDS(feed_glmmPQL_CompareCRW_CAR1_Hrs, 
-          file = "./Models/feed_glmmPQL_CompareCRW_CAR1_Hrs.rds")
-}
-summary(feed_glmmPQL_CompareCRW_CAR1_Hrs)
 ```
 
 ##### Plot CRW + Blue Whale Models

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2022.1.19)  5 MAY 2022 12:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2022.1.19)  18 JUL 2022 13:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -22,7 +22,74 @@ File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
-) (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty
+) (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.st
+y
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip49
+For additional information on amsmath, use the `?' option.
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen139
+)) (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.st
+y
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+) (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count191
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count192
+\leftroot@=\count193
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count194
+\DOTSCASE@=\count195
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count196
+\c@MaxMatrixCols=\count197
+\dotsspace@=\muskip16
+\c@parentequation=\count198
+\dspbrk@lvl=\count199
+\tag@help=\toks17
+\row@=\count266
+\column@=\count267
+\maxfields@=\count268
+\andhelp@=\toks18
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks19
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.st
+y
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty
 Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
@@ -56,91 +123,8 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
-)
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
-Package: amssymb 2013/01/14 v3.01 AMS font symbols
-
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.st
-y
-Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks16
-\symAMSa=\mathgroup4
-\symAMSb=\mathgroup5
-LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
-LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
-(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.s
-ty
-Package: amsmath 2021/10/15 v2.17l AMS math features
-\@mathmargin=\skip49
-For additional information on amsmath, use the `?' option.
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
-Package: amstext 2021/08/26 v2.01 AMS text
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
-File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks17
-\ex@=\dimen139
-)) (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.st
-y
-Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen140
-) (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
-Package: amsopn 2021/08/26 v2.02 operator names
-)
-\inf@bad=\count191
-LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count192
-\leftroot@=\count193
-LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count194
-\DOTSCASE@=\count195
-LaTeX Info: Redefining \ldots on input line 496.
-LaTeX Info: Redefining \dots on input line 499.
-LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box50
-\strutbox@=\box51
-\big@size=\dimen141
-LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count196
-\c@MaxMatrixCols=\count197
-\dotsspace@=\muskip16
-\c@parentequation=\count198
-\dspbrk@lvl=\count199
-\tag@help=\toks18
-\row@=\count266
-\column@=\count267
-\maxfields@=\count268
-\andhelp@=\toks19
-\eqnshift@=\dimen142
-\alignsep@=\dimen143
-\tagshift@=\dimen144
-\tagwidth@=\dimen145
-\totwidth@=\dimen146
-\lineht@=\dimen147
-\@envbody=\toks20
-\multlinegap=\skip50
-\multlinetaggap=\skip51
-\mathdisplay@stack=\toks21
-LaTeX Info: Redefining \[ on input line 2938.
-LaTeX Info: Redefining \] on input line 2939.
-) (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.st
-y
-Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+) (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
-))
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
-Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-) (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/base\fixltx2e.sty
-Package: fixltx2e 2016/12/29 v2.1a fixes to LaTeX (obsolete)
-Applying: [2015/01/01] Old fixltx2e package on input line 46.
-
-Package fixltx2e Warning: fixltx2e is not required with releases after 2015
-(fixltx2e)                All fixes are now in the LaTeX kernel.
-(fixltx2e)                See the latexrelease package for details.
-
-Already applied: [0000/00/00] Old fixltx2e package on input line 53.
 ) (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
@@ -149,28 +133,28 @@ LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )) (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
-\inpenc@prehook=\toks22
-\inpenc@posthook=\toks23
+\inpenc@prehook=\toks21
+\inpenc@posthook=\toks22
+) (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 ) (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/upquote\upquote.st
 y
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
 tim
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
-Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
-))
+)
 (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.
 sty
 Package: microtype 2021/12/10 v3.0b Micro-typographical refinements (RS)
 (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks24
+\KV@toks@=\toks23
 )
 (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.st
 y
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count269
 )
-\MT@toks=\toks25
+\MT@toks=\toks24
 \MT@count=\count270
 \MT@tempbox=\box52
 LaTeX Info: Redefining \leftprotrusion on input line 1010.
@@ -193,36 +177,58 @@ Package microtype Info: Loading configuration file microtype.cfg.
 (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.
 cfg
 File: microtype.cfg 2021/12/10 v3.0b microtype main configuration file (RS)
-))
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.st
-y
-Package: geometry 2020/01/02 v5.9 Page Geometry
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
-Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-)
-\Gm@cnth=\count272
-\Gm@cntv=\count273
-\c@Gm@tempcnt=\count274
-\Gm@bindingoffset=\dimen149
-\Gm@wd@mp=\dimen150
-\Gm@odd@mp=\dimen151
-\Gm@even@mp=\dimen152
-\Gm@layoutwidth=\dimen153
-\Gm@layoutheight=\dimen154
-\Gm@layouthoffset=\dimen155
-\Gm@layoutvoffset=\dimen156
-\Gm@dimlist=\toks26
+)) (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/parskip\parskip.s
+ty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
 
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cf
-g))
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.st
-y
-Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.
+sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 
 (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.st
 y
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkey
+s.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))) (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.st
+y
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.c
+fg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.
+def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+) (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/xurl\xurl.sty
+Package: xurl 2020/12/30 v 0.09a modify URL breaks
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+))
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.st
+y
+Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
+
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.st
+y
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+
 (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexc
 mds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
@@ -235,10 +241,6 @@ Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-)
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkey
-s.sty
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 )
 (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdef
 inekeys.sty
@@ -258,13 +260,9 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 y
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.
-sty
-Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
-)
-\@linkdim=\dimen157
-\Hy@linkcounter=\count275
-\Hy@pagecounter=\count276
+\@linkdim=\dimen149
+\Hy@linkcounter=\count272
+\Hy@pagecounter=\count273
 (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
@@ -283,7 +281,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count277
+\Hy@SavedSpaceFactor=\count274
 (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
@@ -297,13 +295,9 @@ Package hyperref Info: Plain pages OFF on input line 4207.
 Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4445.
-\c@Hy@tempcnt=\count278
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
-\Urlmuskip=\muskip17
-Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
+\c@Hy@tempcnt=\count275
 LaTeX Info: Redefining \url on input line 4804.
-\XeTeXLinkMargin=\dimen158
+\XeTeXLinkMargin=\dimen150
 (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
@@ -312,9 +306,9 @@ alc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count279
-\Field@Width=\dimen159
-\Fld@charsize=\dimen160
+\Fld@menulength=\count276
+\Field@Width=\dimen151
+\Fld@charsize=\dimen152
 Package hyperref Info: Hyper figures OFF on input line 6076.
 Package hyperref Info: Link nesting OFF on input line 6081.
 Package hyperref Info: Hyper index ON on input line 6084.
@@ -330,9 +324,9 @@ y
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count280
-\c@Item=\count281
-\c@Hfootnote=\count282
+\Hy@abspage=\count277
+\c@Item=\count278
+\c@Hfootnote=\count279
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
@@ -345,8 +339,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count283
-\c@bookmark@seq@number=\count284
+\Fld@listcount=\count280
+\c@bookmark@seq@number=\count281
 
 (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerun
 filecheck.sty
@@ -361,28 +355,40 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip53
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 30.
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
-Package: color 2021/12/07 v1.3c Standard LaTeX Color (DPC)
-
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.c
-fg
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package color Info: Driver file: pdftex.def on input line 149.
-
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.
 def
-File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
+\BKM@id=\count282
 ))
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.st
+y
+Package: geometry 2020/01/02 v5.9 Page Geometry
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count283
+\Gm@cntv=\count284
+\c@Gm@tempcnt=\count285
+\Gm@bindingoffset=\dimen153
+\Gm@wd@mp=\dimen154
+\Gm@odd@mp=\dimen155
+\Gm@even@mp=\dimen156
+\Gm@layoutwidth=\dimen157
+\Gm@layoutheight=\dimen158
+\Gm@layouthoffset=\dimen159
+\Gm@layoutvoffset=\dimen160
+\Gm@dimlist=\toks25
+
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cf
+g))
 (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/fancyvrb\fancyvrb.st
 y
 Package: fancyvrb 2021/12/21 4.1b verbatim text (tvz,hv)
-\FV@CodeLineNo=\count285
+\FV@CodeLineNo=\count286
 \FV@InFile=\read2
 \FV@TabBox=\box53
-\c@FancyVerbLine=\count286
-\FV@StepNumber=\count287
+\c@FancyVerbLine=\count287
+\FV@StepNumber=\count288
 \FV@OutFile=\write3
 ) (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/framed\framed.sty
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
@@ -410,15 +416,6 @@ Package graphics Info: Driver file: pdftex.def on input line 107.
 )
 \Gin@req@height=\dimen165
 \Gin@req@width=\dimen166
-) (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/grffile\grffile.st
-y
-Package: grffile 2019/11/11 v2.1 Extended file name support for graphics (legac
-y)
-Package grffile Info: This package is an empty stub for compatibility on input 
-line 40.
-) (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/parskip\parskip.st
-y
-Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
 )
 (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.st
 y
@@ -433,12 +430,12 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \cmidrulesep=\dimen174
 \cmidrulekern=\dimen175
 \defaultaddspace=\dimen176
-\@cmidla=\count288
-\@cmidlb=\count289
+\@cmidla=\count289
+\@cmidlb=\count290
 \@aboverulesep=\dimen177
 \@belowrulesep=\dimen178
-\@thisruleclass=\count290
-\@lastruleclass=\count291
+\@thisruleclass=\count291
+\@lastruleclass=\count292
 \@thisrulewidth=\dimen179
 ) (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.st
 y
@@ -447,24 +444,24 @@ Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
 \LTright=\skip56
 \LTpre=\skip57
 \LTpost=\skip58
-\LTchunksize=\count292
+\LTchunksize=\count293
 \LTcapwidth=\dimen180
 \LT@head=\box54
 \LT@firsthead=\box55
 \LT@foot=\box56
 \LT@lastfoot=\box57
 \LT@gbox=\box58
-\LT@cols=\count293
-\LT@rows=\count294
-\c@LT@tables=\count295
-\c@LT@chunks=\count296
-\LT@p@ftn=\toks27
+\LT@cols=\count294
+\LT@rows=\count295
+\c@LT@tables=\count296
+\c@LT@chunks=\count297
+\LT@p@ftn=\toks26
 ) (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
 \col@sep=\dimen181
 \ar@mcellbox=\box59
 \extrarowheight=\dimen182
-\NC@list=\toks28
+\NC@list=\toks27
 \extratabsurround=\skip59
 \backup@length=\skip60
 \ar@cellbox=\box60
@@ -473,29 +470,29 @@ Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
 y
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@colwidth=\skip61
-\multirow@cntb=\count297
+\multirow@cntb=\count298
 \multirow@dima=\skip62
 \bigstrutjot=\dimen183
 ) (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.st
 y
 \wrapoverhang=\dimen184
 \WF@size=\dimen185
-\c@WF@wrappedlines=\count298
+\c@WF@wrappedlines=\count299
 \WF@box=\box61
-\WF@everypar=\toks29
+\WF@everypar=\toks28
 Package: wrapfig 2003/01/31  v 3.6
 ) (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count299
-\float@exts=\toks30
+\c@float@type=\count300
+\float@exts=\toks29
 \float@box=\box62
-\@float@everytoks=\toks31
+\@float@everytoks=\toks30
 \@floatcapt=\box63
 )
 (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.st
 y
 Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
-\everycr=\toks32
+\everycr=\toks31
 \minrowclearance=\skip63
 )
 (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.
@@ -512,16 +509,16 @@ Package: tabu 2019/01/11 v2.9 - flexible LaTeX tabulars (FC+tabu-fixed)
 y
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box64
-\sift@deathcycles=\count300
+\sift@deathcycles=\count301
 \@vwid@loff=\dimen186
 \@vwid@roff=\dimen187
 )
-\c@taburow=\count301
-\tabu@nbcols=\count302
-\tabu@cnt=\count303
-\tabu@Xcol=\count304
-\tabu@alloc=\count305
-\tabu@nested=\count306
+\c@taburow=\count302
+\tabu@nbcols=\count303
+\tabu@cnt=\count304
+\tabu@Xcol=\count305
+\tabu@alloc=\count306
+\tabu@nested=\count307
 \tabu@target=\dimen188
 \tabu@spreadtarget=\dimen189
 \tabu@naturalX=\dimen190
@@ -531,8 +528,8 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \abovetabulinesep=\dimen194
 \belowtabulinesep=\dimen195
 \tabustrutrule=\dimen196
-\tabu@thebody=\toks33
-\tabu@footnotes=\toks34
+\tabu@thebody=\toks32
+\tabu@footnotes=\toks33
 \tabu@box=\box65
 \tabu@arstrutbox=\box66
 \tabu@hleads=\box67
@@ -559,9 +556,9 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 \UL@box=\box70
 \UL@hyphenbox=\box71
 \UL@skip=\skip66
-\UL@hook=\toks35
+\UL@hook=\toks34
 \UL@height=\dimen197
-\UL@pe=\count307
+\UL@pe=\count308
 \UL@pixel=\dimen198
 \ULC@box=\box72
 Package: ulem 2019/11/18
@@ -571,65 +568,47 @@ Package: ulem 2019/11/18
 y
 Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
 \rotheadsize=\dimen256
-\c@nlinenum=\count308
-\TeXr@lab=\toks36
-) (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
-Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
-
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.c
-fg
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package xcolor Info: Driver file: pdftex.def on input line 227.
-LaTeX Info: Redefining \color on input line 711.
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
-Package xcolor Info: Model `RGB' extended on input line 1368.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+\c@nlinenum=\count309
+\TeXr@lab=\toks35
 )
 (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-
 pdftex.def
 File: l3backend-pdftex.def 2021-12-14 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count309
+\l__color_backend_stack_int=\count310
 \l__pdf_internal_box=\box73
 ) (BlueWhaleLagrangianMethods.aux)
 \openout1 = `BlueWhaleLagrangianMethods.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Info: Redefining \microtypecontext on input line 127.
-Package microtype Info: Applying patch `item' on input line 127.
-Package microtype Info: Applying patch `toc' on input line 127.
-Package microtype Info: Applying patch `eqnum' on input line 127.
-Package microtype Info: Applying patch `footnote' on input line 127.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Info: Redefining \microtypecontext on input line 133.
+Package microtype Info: Applying patch `item' on input line 133.
+Package microtype Info: Applying patch `toc' on input line 133.
+Package microtype Info: Applying patch `eqnum' on input line 133.
+Package microtype Info: Applying patch `footnote' on input line 133.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `basicmath'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 127.
+LaTeX Info: Redefining \showhyphens on input line 133.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -638,6 +617,49 @@ Package microtype Info: No adjustment of character kerning.
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf
+.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count311
+\scratchdimen=\dimen257
+\scratchbox=\box74
+\nofMPsegments=\count312
+\nofMParguments=\count313
+\everyMPshowfont=\toks36
+\MPscratchCnt=\count314
+\MPscratchDim=\dimen258
+\MPnumerator=\count315
+\makeMPintoPDFobject=\count316
+\everyMPtoPDFconversion=\toks37
+)
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopd
+f-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sy
+s.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package hyperref Info: Link coloring OFF on input line 133.
+
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.st
+y
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\get
+titlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count317
+)
+LaTeX Info: Redefining \ref on input line 133.
+LaTeX Info: Redefining \pageref on input line 133.
+LaTeX Info: Redefining \nameref on input line 133.
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -672,81 +694,33 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 127.
-
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
-Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
-
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.st
-y
-Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-)
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\get
-titlestring.sty
-Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
-)
-\c@section@level=\count310
-)
-LaTeX Info: Redefining \ref on input line 127.
-LaTeX Info: Redefining \pageref on input line 127.
-LaTeX Info: Redefining \nameref on input line 127.
-(BlueWhaleLagrangianMethods.out) (BlueWhaleLagrangianMethods.out)
-\@outlinefile=\write4
-\openout4 = `BlueWhaleLagrangianMethods.out'.
-
-
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf
-.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count311
-\scratchdimen=\dimen257
-\scratchbox=\box74
-\nofMPsegments=\count312
-\nofMParguments=\count313
-\everyMPshowfont=\toks37
-\MPscratchCnt=\count314
-\MPscratchDim=\dimen258
-\MPnumerator=\count315
-\makeMPintoPDFobject=\count316
-\everyMPtoPDFconversion=\toks38
-)
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopd
-f-base.sty
-Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sy
-s.cfg
-File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-))
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
-29.
+35.
 (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-29.
+35.
 (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-129.
+135.
 (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-129.
+135.
 (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 129.
+(Font)              <12> on input line 135.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 129.
+(Font)              <8> on input line 135.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 129.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 129
+(Font)              <6> on input line 135.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 135
 .
 (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -754,7 +728,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 129
+LaTeX Font Info:    Trying to load font information for U+msb on input line 135
 .
 (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -771,204 +745,101 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 [1
 
 {C:/Users/Musculus/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}])
-\tf@toc=\write5
-\openout5 = `BlueWhaleLagrangianMethods.toc'.
-
-
-Package xcolor Warning: Incompatible color definition on input line 136.
+\tf@toc=\write4
+\openout4 = `BlueWhaleLagrangianMethods.toc'.
 
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
-37.
+43.
 (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <10> not available
-(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 140.
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 144.
 LaTeX Font Info:    Trying to load font information for TS1+lmtt on input line 
-146.
+152.
 (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmtt.fd
 File: ts1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
+) [2]
 
-Package xcolor Warning: Incompatible color definition on input line 210.
-
-
-Package xcolor Warning: Incompatible color definition on input line 210.
+LaTeX Font Warning: Font shape `T1/lmtt/bx/it' in size <10> not available
+(Font)              Font shape `T1/lmtt/b/sl' tried instead on input line 222.
 
 
-Package xcolor Warning: Incompatible color definition on input line 210.
-
-[2]
-
-Package xcolor Warning: Incompatible color definition on input line 210.
-
-
-Package xcolor Warning: Incompatible color definition on input line 210.
-
-
-Package xcolor Warning: Incompatible color definition on input line 214.
-
-
-Package xcolor Warning: Incompatible color definition on input line 390.
-
-
-Package xcolor Warning: Incompatible color definition on input line 390.
-
-
-Underfull \vbox (badness 10000) detected at line 390
+Underfull \vbox (badness 10000) detected at line 388
  []
-
-
-Package xcolor Warning: Incompatible color definition on input line 390.
 
 [3]
-
-Package xcolor Warning: Incompatible color definition on input line 390.
-
-
-Package xcolor Warning: Incompatible color definition on input line 390.
-
-
-Underfull \vbox (badness 10000) detected at line 390
+Underfull \vbox (badness 10000) detected at line 388
  []
 
 
-Underfull \vbox (badness 10000) detected at line 390
+Underfull \vbox (badness 10000) detected at line 388
  []
-
-
-Package xcolor Warning: Incompatible color definition on input line 390.
 
 [4]
-
-Package xcolor Warning: Incompatible color definition on input line 390.
-
-
-Package xcolor Warning: Incompatible color definition on input line 390.
-
-
-Underfull \vbox (badness 10000) detected at line 390
+Underfull \vbox (badness 10000) detected at line 388
  []
 
 
-Underfull \vbox (badness 10000) detected at line 390
+Underfull \vbox (badness 10000) detected at line 388
+ []
+
+[5] [6] [7]
+Underfull \vbox (badness 10000) detected at line 573
  []
 
 
-Package xcolor Warning: Incompatible color definition on input line 390.
-
-[5]
-
-Package xcolor Warning: Incompatible color definition on input line 390.
-
-
-Package xcolor Warning: Incompatible color definition on input line 390.
-
-[6]
-
-Package xcolor Warning: Incompatible color definition on input line 423.
-
-
-Package xcolor Warning: Incompatible color definition on input line 441.
-
-
-Package xcolor Warning: Incompatible color definition on input line 441.
-
-
-Package xcolor Warning: Incompatible color definition on input line 453.
-
-
-Package xcolor Warning: Incompatible color definition on input line 571.
-
-
-Package xcolor Warning: Incompatible color definition on input line 571.
-
-
-Package xcolor Warning: Incompatible color definition on input line 571.
-
-[7]
-
-Package xcolor Warning: Incompatible color definition on input line 571.
-
-
-Package xcolor Warning: Incompatible color definition on input line 571.
-
-
-Underfull \vbox (badness 10000) detected at line 571
+Underfull \vbox (badness 10000) detected at line 573
  []
-
-
-Underfull \vbox (badness 10000) detected at line 571
- []
-
-
-Package xcolor Warning: Incompatible color definition on input line 571.
 
 [8]
-
-Package xcolor Warning: Incompatible color definition on input line 571.
-
-
-Package xcolor Warning: Incompatible color definition on input line 571.
-
-
-Overfull \hbox (5.15685pt too wide) in paragraph at lines 576--576
+Overfull \hbox (5.15685pt too wide) in paragraph at lines 578--578
  []|\T1/lmr/m/n/10 (-20) Year| 
  []
 
 
-Overfull \hbox (6.95369pt too wide) in paragraph at lines 576--577
+Overfull \hbox (6.95369pt too wide) in paragraph at lines 578--579
  []|\T1/lmr/m/n/10 (-20) Length 
  []
 
 
-Overfull \hbox (2.43016pt too wide) in paragraph at lines 576--577
+Overfull \hbox (2.43016pt too wide) in paragraph at lines 578--579
  \T1/lmr/m/n/10 (-20) (days)| 
  []
 
 
-Overfull \hbox (4.51015pt too wide) in paragraph at lines 577--578
+Overfull \hbox (4.51015pt too wide) in paragraph at lines 579--580
  []|\T1/lmr/m/n/10 (-20) Total 
  []
 
 
-Overfull \hbox (5.25679pt too wide) in paragraph at lines 577--578
+Overfull \hbox (5.25679pt too wide) in paragraph at lines 579--580
  \T1/lmr/m/n/10 (-20) Dives| 
  []
 
 
-Overfull \hbox (4.51015pt too wide) in paragraph at lines 578--580
+Overfull \hbox (4.51015pt too wide) in paragraph at lines 580--582
  []|\T1/lmr/m/n/10 (-20) Total 
  []
 
 
-Overfull \hbox (5.25679pt too wide) in paragraph at lines 578--580
+Overfull \hbox (5.25679pt too wide) in paragraph at lines 580--582
  \T1/lmr/m/n/10 (-20) Dives 
  []
 
 
-Overfull \hbox (0.62788pt too wide) in paragraph at lines 578--580
+Overfull \hbox (0.62788pt too wide) in paragraph at lines 580--582
  \T1/lmr/m/n/10 (-20) with 
  []
 
 
-Overfull \hbox (1.73634pt too wide) in paragraph at lines 578--580
+Overfull \hbox (1.73634pt too wide) in paragraph at lines 580--582
  \T1/lmr/m/n/10 (-20) GPS| 
  []
 
 
-Overfull \hbox (0.89642pt too wide) in paragraph at lines 580--582
+Overfull \hbox (0.89642pt too wide) in paragraph at lines 582--584
  []|\T1/lmr/m/n/10 (-20) Total 
- []
-
-
-Overfull \hbox (1.64307pt too wide) in paragraph at lines 580--582
- \T1/lmr/m/n/10 (-20) Dives 
- []
-
-
-Overfull \hbox (4.58817pt too wide) in paragraph at lines 580--582
- \T1/lmr/m/n/10 (-20) FTLE| 
  []
 
 
@@ -977,18 +848,18 @@ Overfull \hbox (1.64307pt too wide) in paragraph at lines 582--584
  []
 
 
-Overfull \hbox (2.00244pt too wide) in paragraph at lines 584--586
+Overfull \hbox (4.58817pt too wide) in paragraph at lines 582--584
+ \T1/lmr/m/n/10 (-20) FTLE| 
+ []
+
+
+Overfull \hbox (1.64307pt too wide) in paragraph at lines 584--586
+ \T1/lmr/m/n/10 (-20) Dives 
+ []
+
+
+Overfull \hbox (2.00244pt too wide) in paragraph at lines 586--588
  []|\T1/lmr/m/n/10 (-20) Mean 
- []
-
-
-Overfull \hbox (0.62646pt too wide) in paragraph at lines 584--586
- \T1/lmr/m/n/10 (-20) Over- 
- []
-
-
-Overfull \hbox (0.95183pt too wide) in paragraph at lines 584--586
- \T1/lmr/m/n/10 (-20) Daily 
  []
 
 
@@ -1002,23 +873,18 @@ Overfull \hbox (0.95183pt too wide) in paragraph at lines 586--588
  []
 
 
-Overfull \hbox (2.00244pt too wide) in paragraph at lines 588--590
+Overfull \hbox (0.62646pt too wide) in paragraph at lines 588--590
+ \T1/lmr/m/n/10 (-20) Over- 
+ []
+
+
+Overfull \hbox (0.95183pt too wide) in paragraph at lines 588--590
+ \T1/lmr/m/n/10 (-20) Daily 
+ []
+
+
+Overfull \hbox (2.00244pt too wide) in paragraph at lines 590--592
  []|\T1/lmr/m/n/10 (-20) Mean 
- []
-
-
-Overfull \hbox (5.14621pt too wide) in paragraph at lines 594--594
- []|\T1/lmr/m/n/10 (-20) 2016| 
- []
-
-
-Overfull \hbox (0.64096pt too wide) in paragraph at lines 594--594
- []|\T1/lmr/m/n/10 (-20) 24.10| 
- []
-
-
-Overfull \hbox (4.35402pt too wide) in paragraph at lines 596--596
- []|\T1/lmr/m/n/10 (-20) Southern 
  []
 
 
@@ -1028,7 +894,7 @@ Overfull \hbox (5.14621pt too wide) in paragraph at lines 596--596
 
 
 Overfull \hbox (0.64096pt too wide) in paragraph at lines 596--596
- []|\T1/lmr/m/n/10 (-20) 29.20| 
+ []|\T1/lmr/m/n/10 (-20) 24.10| 
  []
 
 
@@ -1043,7 +909,7 @@ Overfull \hbox (5.14621pt too wide) in paragraph at lines 598--598
 
 
 Overfull \hbox (0.64096pt too wide) in paragraph at lines 598--598
- []|\T1/lmr/m/n/10 (-20) 25.50| 
+ []|\T1/lmr/m/n/10 (-20) 29.20| 
  []
 
 
@@ -1053,22 +919,12 @@ Overfull \hbox (4.35402pt too wide) in paragraph at lines 600--600
 
 
 Overfull \hbox (5.14621pt too wide) in paragraph at lines 600--600
- []|\T1/lmr/m/n/10 (-20) 2017| 
- []
-
-
-Overfull \hbox (1.53249pt too wide) in paragraph at lines 600--600
- []|\T1/lmr/m/n/10 (-20) 2728| 
- []
-
-
-Overfull \hbox (1.53249pt too wide) in paragraph at lines 600--600
- []|\T1/lmr/m/n/10 (-20) 2588| 
+ []|\T1/lmr/m/n/10 (-20) 2016| 
  []
 
 
 Overfull \hbox (0.64096pt too wide) in paragraph at lines 600--600
- []|\T1/lmr/m/n/10 (-20) 23.20| 
+ []|\T1/lmr/m/n/10 (-20) 25.50| 
  []
 
 
@@ -1082,8 +938,18 @@ Overfull \hbox (5.14621pt too wide) in paragraph at lines 602--602
  []
 
 
+Overfull \hbox (1.53249pt too wide) in paragraph at lines 602--602
+ []|\T1/lmr/m/n/10 (-20) 2728| 
+ []
+
+
+Overfull \hbox (1.53249pt too wide) in paragraph at lines 602--602
+ []|\T1/lmr/m/n/10 (-20) 2588| 
+ []
+
+
 Overfull \hbox (0.64096pt too wide) in paragraph at lines 602--602
- []|\T1/lmr/m/n/10 (-20) 22.00| 
+ []|\T1/lmr/m/n/10 (-20) 23.20| 
  []
 
 
@@ -1098,37 +964,37 @@ Overfull \hbox (5.14621pt too wide) in paragraph at lines 604--604
 
 
 Overfull \hbox (0.64096pt too wide) in paragraph at lines 604--604
- []|\T1/lmr/m/n/10 (-20) 25.90| 
+ []|\T1/lmr/m/n/10 (-20) 22.00| 
+ []
+
+
+Overfull \hbox (4.35402pt too wide) in paragraph at lines 606--606
+ []|\T1/lmr/m/n/10 (-20) Southern 
  []
 
 
 Overfull \hbox (5.14621pt too wide) in paragraph at lines 606--606
- []|\T1/lmr/m/n/10 (-20) 2018| 
- []
-
-
-Overfull \hbox (1.53249pt too wide) in paragraph at lines 606--606
- []|\T1/lmr/m/n/10 (-20) 1152| 
+ []|\T1/lmr/m/n/10 (-20) 2017| 
  []
 
 
 Overfull \hbox (0.64096pt too wide) in paragraph at lines 606--606
- []|\T1/lmr/m/n/10 (-20) 21.00| 
+ []|\T1/lmr/m/n/10 (-20) 25.90| 
  []
 
 
 Overfull \hbox (5.14621pt too wide) in paragraph at lines 608--608
- []|\T1/lmr/m/n/10 (-20) 2019| 
+ []|\T1/lmr/m/n/10 (-20) 2018| 
+ []
+
+
+Overfull \hbox (1.53249pt too wide) in paragraph at lines 608--608
+ []|\T1/lmr/m/n/10 (-20) 1152| 
  []
 
 
 Overfull \hbox (0.64096pt too wide) in paragraph at lines 608--608
- []|\T1/lmr/m/n/10 (-20) 17.60| 
- []
-
-
-Overfull \hbox (4.6536pt too wide) in paragraph at lines 610--610
- []|\T1/lmr/m/n/10 (-20) Northern 
+ []|\T1/lmr/m/n/10 (-20) 21.00| 
  []
 
 
@@ -1137,848 +1003,355 @@ Overfull \hbox (5.14621pt too wide) in paragraph at lines 610--610
  []
 
 
-Overfull \hbox (1.53249pt too wide) in paragraph at lines 610--610
- []|\T1/lmr/m/n/10 (-20) 1502| 
- []
-
-
-Overfull \hbox (1.53249pt too wide) in paragraph at lines 610--610
- []|\T1/lmr/m/n/10 (-20) 1062| 
- []
-
-
 Overfull \hbox (0.64096pt too wide) in paragraph at lines 610--610
- []|\T1/lmr/m/n/10 (-20) 24.40| 
+ []|\T1/lmr/m/n/10 (-20) 17.60| 
+ []
+
+
+Overfull \hbox (4.6536pt too wide) in paragraph at lines 612--612
+ []|\T1/lmr/m/n/10 (-20) Northern 
  []
 
 
 Overfull \hbox (5.14621pt too wide) in paragraph at lines 612--612
- []|\T1/lmr/m/n/10 (-20) 2020| 
+ []|\T1/lmr/m/n/10 (-20) 2019| 
+ []
+
+
+Overfull \hbox (1.53249pt too wide) in paragraph at lines 612--612
+ []|\T1/lmr/m/n/10 (-20) 1502| 
+ []
+
+
+Overfull \hbox (1.53249pt too wide) in paragraph at lines 612--612
+ []|\T1/lmr/m/n/10 (-20) 1062| 
  []
 
 
 Overfull \hbox (0.64096pt too wide) in paragraph at lines 612--612
- []|\T1/lmr/m/n/10 (-20) 24.90| 
+ []|\T1/lmr/m/n/10 (-20) 24.40| 
  []
 
 
-Overfull \hbox (1.53249pt too wide) in paragraph at lines 614--614
- []|\T1/lmr/m/n/10 (-20) 9605| 
- []
-
-
-Overfull \hbox (1.53249pt too wide) in paragraph at lines 614--614
- []|\T1/lmr/m/n/10 (-20) 8162| 
+Overfull \hbox (5.14621pt too wide) in paragraph at lines 614--614
+ []|\T1/lmr/m/n/10 (-20) 2020| 
  []
 
 
 Overfull \hbox (0.64096pt too wide) in paragraph at lines 614--614
+ []|\T1/lmr/m/n/10 (-20) 24.90| 
+ []
+
+
+Overfull \hbox (1.53249pt too wide) in paragraph at lines 616--616
+ []|\T1/lmr/m/n/10 (-20) 9605| 
+ []
+
+
+Overfull \hbox (1.53249pt too wide) in paragraph at lines 616--616
+ []|\T1/lmr/m/n/10 (-20) 8162| 
+ []
+
+
+Overfull \hbox (0.64096pt too wide) in paragraph at lines 616--616
  []|\T1/lmr/m/n/10 (-20) 23.78| 
  []
 
-[9]
-
-Package xcolor Warning: Incompatible color definition on input line 620.
-
-
-Package xcolor Warning: Incompatible color definition on input line 689.
-
-
-Package xcolor Warning: Incompatible color definition on input line 689.
-
-
-Package xcolor Warning: Incompatible color definition on input line 689.
-
-[10]
-
-Package xcolor Warning: Incompatible color definition on input line 689.
-
-
-Package xcolor Warning: Incompatible color definition on input line 689.
-
+[9] [10]
 <BlueWhaleLagrangianMethods_files/figure-latex/DeploymentOverViewMap-1.pdf, id=
-241, 867.24pt x 867.24pt>
+136, 867.24pt x 867.24pt>
 File: BlueWhaleLagrangianMethods_files/figure-latex/DeploymentOverViewMap-1.pdf
  Graphic file (type pdf)
 <use BlueWhaleLagrangianMethods_files/figure-latex/DeploymentOverViewMap-1.pdf>
 
 Package pdftex.def Info: BlueWhaleLagrangianMethods_files/figure-latex/Deployme
-ntOverViewMap-1.pdf  used on input line 691.
+ntOverViewMap-1.pdf  used on input line 694.
 (pdftex.def)             Requested size: 469.75827pt x 469.75827pt.
 [11] [12 <./BlueWhaleLagrangianMethods_files/figure-latex/DeploymentOverViewMap
 -1.pdf>]
-<./rmdfiles/FTLE3day.jpg, id=268, 527.02644pt x 860.21375pt>
+<./rmdfiles/FTLE3day.jpg, id=164, 527.02644pt x 860.21375pt>
 File: ./rmdfiles/FTLE3day.jpg Graphic file (type jpg)
 <use ./rmdfiles/FTLE3day.jpg>
-Package pdftex.def Info: ./rmdfiles/FTLE3day.jpg  used on input line 776.
+Package pdftex.def Info: ./rmdfiles/FTLE3day.jpg  used on input line 784.
 (pdftex.def)             Requested size: 398.50165pt x 650.43529pt.
 
-LaTeX Warning: Float too large for page by 23.9497pt on input line 778.
+LaTeX Warning: Float too large for page by 23.9497pt on input line 786.
 
 [13] [14
 pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.797 
-       <./rmdfiles/FTLE3day.jpg>]
-
-Package xcolor Warning: Incompatible color definition on input line 819.
-
-
-Package xcolor Warning: Incompatible color definition on input line 878.
-
-
-Package xcolor Warning: Incompatible color definition on input line 878.
-
-
-Package xcolor Warning: Incompatible color definition on input line 878.
-
-[15]
-
-Package xcolor Warning: Incompatible color definition on input line 878.
-
-
-Package xcolor Warning: Incompatible color definition on input line 878.
-
-<BlueWhaleLagrangianMethods_files/figure-latex/plotBackground-1.pdf, id=284, 86
+l.806 
+       <./rmdfiles/FTLE3day.jpg>] [15]
+<BlueWhaleLagrangianMethods_files/figure-latex/plotBackground-1.pdf, id=187, 86
 7.24pt x 578.16pt>
 File: BlueWhaleLagrangianMethods_files/figure-latex/plotBackground-1.pdf Graphi
 c file (type pdf)
 <use BlueWhaleLagrangianMethods_files/figure-latex/plotBackground-1.pdf>
 Package pdftex.def Info: BlueWhaleLagrangianMethods_files/figure-latex/plotBack
-ground-1.pdf  used on input line 880.
+ground-1.pdf  used on input line 891.
 (pdftex.def)             Requested size: 469.75827pt x 313.17216pt.
-
-Package xcolor Warning: Incompatible color definition on input line 887.
-
 [16 <./BlueWhaleLagrangianMethods_files/figure-latex/plotBackground-1.pdf>]
-
-Package xcolor Warning: Incompatible color definition on input line 952.
-
-
-Package xcolor Warning: Incompatible color definition on input line 952.
-
-
-Underfull \vbox (badness 10000) detected at line 952
+Underfull \vbox (badness 10000) detected at line 964
  []
 
 
-Underfull \vbox (badness 10000) detected at line 952
+Underfull \vbox (badness 10000) detected at line 964
  []
-
-
-Package xcolor Warning: Incompatible color definition on input line 952.
 
 [17]
-
-Package xcolor Warning: Incompatible color definition on input line 952.
-
-
-Package xcolor Warning: Incompatible color definition on input line 952.
-
-<BlueWhaleLagrangianMethods_files/figure-latex/densityP-1.pdf, id=303, 1156.32p
+<BlueWhaleLagrangianMethods_files/figure-latex/densityP-1.pdf, id=207, 1156.32p
 t x 578.16pt>
 File: BlueWhaleLagrangianMethods_files/figure-latex/densityP-1.pdf Graphic file
  (type pdf)
 <use BlueWhaleLagrangianMethods_files/figure-latex/densityP-1.pdf>
 Package pdftex.def Info: BlueWhaleLagrangianMethods_files/figure-latex/densityP
--1.pdf  used on input line 954.
+-1.pdf  used on input line 966.
 (pdftex.def)             Requested size: 469.75385pt x 234.87692pt.
-
-Package xcolor Warning: Incompatible color definition on input line 958.
-
-
-Package xcolor Warning: Incompatible color definition on input line 967.
-
-
-Package xcolor Warning: Incompatible color definition on input line 967.
-
-
-Package xcolor Warning: Incompatible color definition on input line 973.
-
-
-Package xcolor Warning: Incompatible color definition on input line 979.
-
-
-Package xcolor Warning: Incompatible color definition on input line 979.
-
-
-Package xcolor Warning: Incompatible color definition on input line 985.
-
-
-Package xcolor Warning: Incompatible color definition on input line 991.
-
-
-Package xcolor Warning: Incompatible color definition on input line 991.
-
-
-Package xcolor Warning: Incompatible color definition on input line 999.
-
-[18 <./BlueWhaleLagrangianMethods_files/figure-latex/densityP-1.pdf>]
-
-Package xcolor Warning: Incompatible color definition on input line 1003.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1003.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1014.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1038.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1038.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1066.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1073.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1073.
-
-[19]
-<./rmdfiles/Bm170926-TDR14-Tracks.png, id=318, 1156.32pt x 722.7pt>
+[18 <./BlueWhaleLagrangianMethods_files/figure-latex/densityP-1.pdf>] [19]
+<./rmdfiles/Bm170926-TDR14-Tracks.png, id=224, 1156.32pt x 722.7pt>
 File: ./rmdfiles/Bm170926-TDR14-Tracks.png Graphic file (type png)
 <use ./rmdfiles/Bm170926-TDR14-Tracks.png>
 Package pdftex.def Info: ./rmdfiles/Bm170926-TDR14-Tracks.png  used on input li
-ne 1112.
+ne 1127.
 (pdftex.def)             Requested size: 469.75385pt x 293.59615pt.
-
-Package xcolor Warning: Incompatible color definition on input line 1131.
-
 [20
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.1131 \begin{Shaded}
-                      <./rmdfiles/Bm170926-TDR14-Tracks.png>]
-
-Package xcolor Warning: Incompatible color definition on input line 1148.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1148.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1188.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1197.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1197.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1197.
-
-[21]
-
-Package xcolor Warning: Incompatible color definition on input line 1197.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1197.
-
-<BlueWhaleLagrangianMethods_files/figure-latex/ACF_feedingGLMM-1.pdf, id=328, 4
+l.1148 \begin{Shaded}
+                      <./rmdfiles/Bm170926-TDR14-Tracks.png>] [21]
+<BlueWhaleLagrangianMethods_files/figure-latex/ACF_feedingGLMM-1.pdf, id=237, 4
 69.755pt x 325.215pt>
 File: BlueWhaleLagrangianMethods_files/figure-latex/ACF_feedingGLMM-1.pdf Graph
 ic file (type pdf)
 <use BlueWhaleLagrangianMethods_files/figure-latex/ACF_feedingGLMM-1.pdf>
 Package pdftex.def Info: BlueWhaleLagrangianMethods_files/figure-latex/ACF_feed
-ingGLMM-1.pdf  used on input line 1199.
+ingGLMM-1.pdf  used on input line 1216.
 (pdftex.def)             Requested size: 234.87692pt x 162.6071pt.
-<BlueWhaleLagrangianMethods_files/figure-latex/ACF_feedingGLMM-2.pdf, id=329, 4
+<BlueWhaleLagrangianMethods_files/figure-latex/ACF_feedingGLMM-2.pdf, id=238, 4
 69.755pt x 325.215pt>
 File: BlueWhaleLagrangianMethods_files/figure-latex/ACF_feedingGLMM-2.pdf Graph
 ic file (type pdf)
 <use BlueWhaleLagrangianMethods_files/figure-latex/ACF_feedingGLMM-2.pdf>
 Package pdftex.def Info: BlueWhaleLagrangianMethods_files/figure-latex/ACF_feed
-ingGLMM-2.pdf  used on input line 1200.
+ingGLMM-2.pdf  used on input line 1217.
 (pdftex.def)             Requested size: 234.87692pt x 162.6071pt.
 
-Overfull \hbox (2.22104pt too wide) in paragraph at lines 1199--1201
+Overfull \hbox (2.22104pt too wide) in paragraph at lines 1216--1218
 [][] [] 
  []
 
-
-Package xcolor Warning: Incompatible color definition on input line 1204.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1245.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1245.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1245.
-
 [22 <./BlueWhaleLagrangianMethods_files/figure-latex/ACF_feedingGLMM-1.pdf> <./
 BlueWhaleLagrangianMethods_files/figure-latex/ACF_feedingGLMM-2.pdf>]
-
-Package xcolor Warning: Incompatible color definition on input line 1245.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1245.
-
-<BlueWhaleLagrangianMethods_files/figure-latex/pftleLME_AR1-1.pdf, id=346, 867.
+<BlueWhaleLagrangianMethods_files/figure-latex/pftleLME_AR1-1.pdf, id=255, 867.
 24pt x 578.16pt>
 File: BlueWhaleLagrangianMethods_files/figure-latex/pftleLME_AR1-1.pdf Graphic 
 file (type pdf)
 <use BlueWhaleLagrangianMethods_files/figure-latex/pftleLME_AR1-1.pdf>
 Package pdftex.def Info: BlueWhaleLagrangianMethods_files/figure-latex/pftleLME
-_AR1-1.pdf  used on input line 1247.
+_AR1-1.pdf  used on input line 1264.
 (pdftex.def)             Requested size: 469.75827pt x 313.17216pt.
 
-Package xcolor Warning: Incompatible color definition on input line 1267.
+Overfull \vbox (0.18784pt too high) detected at line 1311
+ []
 
-
-Package xcolor Warning: Incompatible color definition on input line 1293.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1293.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1293.
-
-[23 <./BlueWhaleLagrangianMethods_files/figure-latex/pftleLME_AR1-1.pdf>]
-
-Package xcolor Warning: Incompatible color definition on input line 1293.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1293.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1338.
-
-[24]
-
-Package xcolor Warning: Incompatible color definition on input line 1353.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1353.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1397.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1445.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1445.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1445.
-
-[25]
-
-Package xcolor Warning: Incompatible color definition on input line 1445.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1445.
-
-<BlueWhaleLagrangianMethods_files/figure-latex/ftle_glmmCRW_Plot-1.pdf, id=370,
+[23 <./BlueWhaleLagrangianMethods_files/figure-latex/pftleLME_AR1-1.pdf>] [24]
+<BlueWhaleLagrangianMethods_files/figure-latex/ftle_glmmCRW_Plot-1.pdf, id=275,
  867.24pt x 578.16pt>
 File: BlueWhaleLagrangianMethods_files/figure-latex/ftle_glmmCRW_Plot-1.pdf Gra
 phic file (type pdf)
 <use BlueWhaleLagrangianMethods_files/figure-latex/ftle_glmmCRW_Plot-1.pdf>
 Package pdftex.def Info: BlueWhaleLagrangianMethods_files/figure-latex/ftle_glm
-mCRW_Plot-1.pdf  used on input line 1447.
+mCRW_Plot-1.pdf  used on input line 1402.
 (pdftex.def)             Requested size: 469.75827pt x 313.17216pt.
 
-Package xcolor Warning: Incompatible color definition on input line 1449.
-
-[26]
-
-Package xcolor Warning: Incompatible color definition on input line 1453.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1453.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1463.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1489.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1489.
-
-
-Overfull \vbox (0.7296pt too high) detected at line 1489
+Overfull \hbox (169.27948pt too wide) in paragraph at lines 1402--1403
+ []\T1/lmr/bx/n/10 (-20) Plot CRW + Blue Whale Mod-els[] [] 
  []
 
+[25]
+Overfull \vbox (0.7391pt too high) detected at line 1446
+ []
 
-Package xcolor Warning: Incompatible color definition on input line 1489.
-
-[27 <./BlueWhaleLagrangianMethods_files/figure-latex/ftle_glmmCRW_Plot-1.pdf>]
-
-Package xcolor Warning: Incompatible color definition on input line 1489.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1489.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1528.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1554.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1554.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1554.
-
-[28]
-
-Package xcolor Warning: Incompatible color definition on input line 1554.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1554.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1593.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1619.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1619.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1619.
-
-[29]
-
-Package xcolor Warning: Incompatible color definition on input line 1619.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1619.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1658.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1684.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1684.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1684.
-
-[30]
-
-Package xcolor Warning: Incompatible color definition on input line 1684.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1684.
-
-[31]
-
-Package xcolor Warning: Incompatible color definition on input line 1730.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1763.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1763.
-
-<BlueWhaleLagrangianMethods_files/figure-latex/ftleShiftPlotAll-1.pdf, id=411, 
+[26 <./BlueWhaleLagrangianMethods_files/figure-latex/ftle_glmmCRW_Plot-1.pdf>] 
+[27] [28] [29] [30]
+<BlueWhaleLagrangianMethods_files/figure-latex/ftleShiftPlotAll-1.pdf, id=321, 
 867.24pt x 578.16pt>
 File: BlueWhaleLagrangianMethods_files/figure-latex/ftleShiftPlotAll-1.pdf Grap
 hic file (type pdf)
 <use BlueWhaleLagrangianMethods_files/figure-latex/ftleShiftPlotAll-1.pdf>
 Package pdftex.def Info: BlueWhaleLagrangianMethods_files/figure-latex/ftleShif
-tPlotAll-1.pdf  used on input line 1765.
+tPlotAll-1.pdf  used on input line 1726.
 (pdftex.def)             Requested size: 469.75827pt x 313.17216pt.
-[32]
+[31] [32 <./BlueWhaleLagrangianMethods_files/figure-latex/ftleShiftPlotAll-1.pd
+f>]
+Overfull \vbox (0.98735pt too high) detected at line 1843
+ []
 
-Package xcolor Warning: Incompatible color definition on input line 1772.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1813.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1813.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1813.
-
-[33 <./BlueWhaleLagrangianMethods_files/figure-latex/ftleShiftPlotAll-1.pdf>]
-
-Package xcolor Warning: Incompatible color definition on input line 1813.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1813.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1851.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1878.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1878.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1878.
-
-[34]
-
-Package xcolor Warning: Incompatible color definition on input line 1878.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1878.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1882.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1903.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1903.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1913.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1963.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1963.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1963.
-
-[35]
-
-Package xcolor Warning: Incompatible color definition on input line 1963.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1963.
-
+[33] [34]
 <BlueWhaleLagrangianMethods_files/figure-latex/plot_hmm_2_Stationary-1.pdf, id=
-433, 867.24pt x 578.16pt>
+352, 867.24pt x 578.16pt>
 File: BlueWhaleLagrangianMethods_files/figure-latex/plot_hmm_2_Stationary-1.pdf
  Graphic file (type pdf)
 <use BlueWhaleLagrangianMethods_files/figure-latex/plot_hmm_2_Stationary-1.pdf>
 
 Package pdftex.def Info: BlueWhaleLagrangianMethods_files/figure-latex/plot_hmm
-_2_Stationary-1.pdf  used on input line 1965.
+_2_Stationary-1.pdf  used on input line 1932.
 (pdftex.def)             Requested size: 469.75827pt x 313.17216pt.
-[36]
+[35]
+Underfull \vbox (badness 1789) detected at line 1967
+ []
 
-Package xcolor Warning: Incompatible color definition on input line 1969.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1998.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1998.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1998.
-
-[37 <./BlueWhaleLagrangianMethods_files/figure-latex/plot_hmm_2_Stationary-1.pd
+[36 <./BlueWhaleLagrangianMethods_files/figure-latex/plot_hmm_2_Stationary-1.pd
 f>]
-
-Package xcolor Warning: Incompatible color definition on input line 1998.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1998.
-
-<BlueWhaleLagrangianMethods_files/figure-latex/plotGLMMVSHMM-1.pdf, id=451, 867
+<BlueWhaleLagrangianMethods_files/figure-latex/plotGLMMVSHMM-1.pdf, id=370, 867
 .24pt x 578.16pt>
 File: BlueWhaleLagrangianMethods_files/figure-latex/plotGLMMVSHMM-1.pdf Graphic
  file (type pdf)
 <use BlueWhaleLagrangianMethods_files/figure-latex/plotGLMMVSHMM-1.pdf>
 Package pdftex.def Info: BlueWhaleLagrangianMethods_files/figure-latex/plotGLMM
-VSHMM-1.pdf  used on input line 2000.
+VSHMM-1.pdf  used on input line 1969.
 (pdftex.def)             Requested size: 469.75827pt x 313.17216pt.
 
-Package xcolor Warning: Incompatible color definition on input line 2020.
+Overfull \hbox (173.57695pt too wide) in paragraph at lines 1969--1970
+ []\T1/lmr/bx/n/10 (-20) Comparison of GLMM and HMM[] [] 
+ []
 
-
-Package xcolor Warning: Incompatible color definition on input line 2050.
-
-
-Package xcolor Warning: Incompatible color definition on input line 2050.
-
-
-Package xcolor Warning: Incompatible color definition on input line 2050.
-
-[38 <./BlueWhaleLagrangianMethods_files/figure-latex/plotGLMMVSHMM-1.pdf>]
-
-Package xcolor Warning: Incompatible color definition on input line 2050.
-
-
-Package xcolor Warning: Incompatible color definition on input line 2050.
-
-<BlueWhaleLagrangianMethods_files/figure-latex/individualFR-1.pdf, id=468, 867.
+[37 <./BlueWhaleLagrangianMethods_files/figure-latex/plotGLMMVSHMM-1.pdf>]
+<BlueWhaleLagrangianMethods_files/figure-latex/individualFR-1.pdf, id=390, 867.
 24pt x 578.16pt>
 File: BlueWhaleLagrangianMethods_files/figure-latex/individualFR-1.pdf Graphic 
 file (type pdf)
 <use BlueWhaleLagrangianMethods_files/figure-latex/individualFR-1.pdf>
 Package pdftex.def Info: BlueWhaleLagrangianMethods_files/figure-latex/individu
-alFR-1.pdf  used on input line 2052.
+alFR-1.pdf  used on input line 2023.
 (pdftex.def)             Requested size: 469.75827pt x 313.17216pt.
-
-Package xcolor Warning: Incompatible color definition on input line 2060.
-
-
-Package xcolor Warning: Incompatible color definition on input line 2138.
-
-
-Package xcolor Warning: Incompatible color definition on input line 2138.
-
-
-Package xcolor Warning: Incompatible color definition on input line 2138.
-
-[39 <./BlueWhaleLagrangianMethods_files/figure-latex/individualFR-1.pdf>]
-
-Package xcolor Warning: Incompatible color definition on input line 2138.
-
-
-Package xcolor Warning: Incompatible color definition on input line 2138.
-
-
-Underfull \vbox (badness 10000) detected at line 2138
+[38 <./BlueWhaleLagrangianMethods_files/figure-latex/individualFR-1.pdf>]
+Underfull \vbox (badness 10000) detected at line 2110
  []
 
 
-Underfull \vbox (badness 10000) detected at line 2138
+Underfull \vbox (badness 10000) detected at line 2110
  []
 
-
-Package xcolor Warning: Incompatible color definition on input line 2138.
-
-[40]
-
-Package xcolor Warning: Incompatible color definition on input line 2138.
-
-
-Package xcolor Warning: Incompatible color definition on input line 2138.
-
+[39]
 <BlueWhaleLagrangianMethods_files/figure-latex/hmmDetermineFRPercentiles-1.pdf,
- id=482, 867.24pt x 578.16pt>
+ id=405, 867.24pt x 578.16pt>
 File: BlueWhaleLagrangianMethods_files/figure-latex/hmmDetermineFRPercentiles-1
 .pdf Graphic file (type pdf)
 <use BlueWhaleLagrangianMethods_files/figure-latex/hmmDetermineFRPercentiles-1.
 pdf>
 Package pdftex.def Info: BlueWhaleLagrangianMethods_files/figure-latex/hmmDeter
-mineFRPercentiles-1.pdf  used on input line 2140.
+mineFRPercentiles-1.pdf  used on input line 2112.
 (pdftex.def)             Requested size: 469.75827pt x 313.17216pt.
-
-Package xcolor Warning: Incompatible color definition on input line 2144.
-
-
-Package xcolor Warning: Incompatible color definition on input line 2182.
-
-
-Package xcolor Warning: Incompatible color definition on input line 2182.
-
-
-Package xcolor Warning: Incompatible color definition on input line 2182.
-
-[41 <./BlueWhaleLagrangianMethods_files/figure-latex/hmmDetermineFRPercentiles-
-1.pdf>]
-
-Package xcolor Warning: Incompatible color definition on input line 2182.
-
-
-Package xcolor Warning: Incompatible color definition on input line 2182.
-
-
-Package xcolor Warning: Incompatible color definition on input line 2186.
-
-
-Package xcolor Warning: Incompatible color definition on input line 2209.
-
-
-Package xcolor Warning: Incompatible color definition on input line 2209.
-
-<BlueWhaleLagrangianMethods_files/figure-latex/fit_hmm4state-1.pdf, id=497, 867
+[40 <./BlueWhaleLagrangianMethods_files/figure-latex/hmmDetermineFRPercentiles-
+1.pdf>] [41]
+<BlueWhaleLagrangianMethods_files/figure-latex/fit_hmm4state-1.pdf, id=426, 867
 .24pt x 578.16pt>
 File: BlueWhaleLagrangianMethods_files/figure-latex/fit_hmm4state-1.pdf Graphic
  file (type pdf)
 <use BlueWhaleLagrangianMethods_files/figure-latex/fit_hmm4state-1.pdf>
 Package pdftex.def Info: BlueWhaleLagrangianMethods_files/figure-latex/fit_hmm4
-state-1.pdf  used on input line 2215.
+state-1.pdf  used on input line 2189.
 (pdftex.def)             Requested size: 469.75827pt x 313.17216pt.
-<BlueWhaleLagrangianMethods_files/figure-latex/fit_hmm4state-2.pdf, id=498, 867
+<BlueWhaleLagrangianMethods_files/figure-latex/fit_hmm4state-2.pdf, id=427, 867
 .24pt x 578.16pt>
 File: BlueWhaleLagrangianMethods_files/figure-latex/fit_hmm4state-2.pdf Graphic
  file (type pdf)
 <use BlueWhaleLagrangianMethods_files/figure-latex/fit_hmm4state-2.pdf>
 Package pdftex.def Info: BlueWhaleLagrangianMethods_files/figure-latex/fit_hmm4
-state-2.pdf  used on input line 2216.
+state-2.pdf  used on input line 2190.
 (pdftex.def)             Requested size: 469.75827pt x 313.17216pt.
-<BlueWhaleLagrangianMethods_files/figure-latex/fit_hmm4state-3.pdf, id=499, 867
+<BlueWhaleLagrangianMethods_files/figure-latex/fit_hmm4state-3.pdf, id=428, 867
 .24pt x 578.16pt>
 File: BlueWhaleLagrangianMethods_files/figure-latex/fit_hmm4state-3.pdf Graphic
  file (type pdf)
 <use BlueWhaleLagrangianMethods_files/figure-latex/fit_hmm4state-3.pdf>
 Package pdftex.def Info: BlueWhaleLagrangianMethods_files/figure-latex/fit_hmm4
-state-3.pdf  used on input line 2217.
+state-3.pdf  used on input line 2191.
 (pdftex.def)             Requested size: 469.75827pt x 313.17216pt.
-[42] [43 <./BlueWhaleLagrangianMethods_files/figure-latex/fit_hmm4state-1.pdf> 
-<./BlueWhaleLagrangianMethods_files/figure-latex/fit_hmm4state-2.pdf>]
+[42 <./BlueWhaleLagrangianMethods_files/figure-latex/fit_hmm4state-1.pdf> <./Bl
+ueWhaleLagrangianMethods_files/figure-latex/fit_hmm4state-2.pdf>]
+Underfull \vbox (badness 1789) detected at line 2300
+ []
 
-Package xcolor Warning: Incompatible color definition on input line 2222.
-
-
-Package xcolor Warning: Incompatible color definition on input line 2325.
-
-
-Package xcolor Warning: Incompatible color definition on input line 2325.
-
-
-Package xcolor Warning: Incompatible color definition on input line 2325.
-
-[44 <./BlueWhaleLagrangianMethods_files/figure-latex/fit_hmm4state-3.pdf>]
-
-Package xcolor Warning: Incompatible color definition on input line 2325.
-
-
-Package xcolor Warning: Incompatible color definition on input line 2325.
-
-
-Underfull \vbox (badness 10000) detected at line 2325
+[43 <./BlueWhaleLagrangianMethods_files/figure-latex/fit_hmm4state-3.pdf>]
+Underfull \vbox (badness 10000) detected at line 2300
  []
 
 
-Underfull \vbox (badness 10000) detected at line 2325
+Underfull \vbox (badness 10000) detected at line 2300
  []
 
-
-Package xcolor Warning: Incompatible color definition on input line 2325.
-
-[45]
-
-Package xcolor Warning: Incompatible color definition on input line 2325.
-
-
-Package xcolor Warning: Incompatible color definition on input line 2325.
-
+[44]
 <BlueWhaleLagrangianMethods_files/figure-latex/plot_hmm_4_Stationary-1.pdf, id=
-533, 1011.78pt x 578.16pt>
+459, 1011.78pt x 578.16pt>
 File: BlueWhaleLagrangianMethods_files/figure-latex/plot_hmm_4_Stationary-1.pdf
  Graphic file (type pdf)
 <use BlueWhaleLagrangianMethods_files/figure-latex/plot_hmm_4_Stationary-1.pdf>
 
 Package pdftex.def Info: BlueWhaleLagrangianMethods_files/figure-latex/plot_hmm
-_4_Stationary-1.pdf  used on input line 2327.
+_4_Stationary-1.pdf  used on input line 2302.
 (pdftex.def)             Requested size: 469.76266pt x 268.4358pt.
-[46 <./BlueWhaleLagrangianMethods_files/figure-latex/plot_hmm_4_Stationary-1.pd
+
+Overfull \hbox (154.88426pt too wide) in paragraph at lines 2302--2303
+ []\T1/lmr/bx/n/10 (-20) Stationary State Prob-a-bil-i-ties[] [] 
+ []
+
+[45 <./BlueWhaleLagrangianMethods_files/figure-latex/plot_hmm_4_Stationary-1.pd
 f>]
+Underfull \vbox (badness 10000) detected at line 2382
+ []
 
-Package xcolor Warning: Incompatible color definition on input line 2345.
-
-
-Package xcolor Warning: Incompatible color definition on input line 2406.
-
-
-Package xcolor Warning: Incompatible color definition on input line 2406.
-
-
-Package xcolor Warning: Incompatible color definition on input line 2406.
-
-[47]
-
-Package xcolor Warning: Incompatible color definition on input line 2406.
-
-
-Package xcolor Warning: Incompatible color definition on input line 2406.
-
-<BlueWhaleLagrangianMethods_files/figure-latex/estimatedFR-1.pdf, id=554, 867.2
+[46]
+<BlueWhaleLagrangianMethods_files/figure-latex/estimatedFR-1.pdf, id=481, 867.2
 4pt x 578.16pt>
 File: BlueWhaleLagrangianMethods_files/figure-latex/estimatedFR-1.pdf Graphic f
 ile (type pdf)
 <use BlueWhaleLagrangianMethods_files/figure-latex/estimatedFR-1.pdf>
 Package pdftex.def Info: BlueWhaleLagrangianMethods_files/figure-latex/estimate
-dFR-1.pdf  used on input line 2408.
+dFR-1.pdf  used on input line 2384.
 (pdftex.def)             Requested size: 469.75827pt x 313.17216pt.
-
-Package xcolor Warning: Incompatible color definition on input line 2414.
-
-
-Package xcolor Warning: Incompatible color definition on input line 2464.
-
-
-Package xcolor Warning: Incompatible color definition on input line 2464.
-
-
-Package xcolor Warning: Incompatible color definition on input line 2464.
-
-[48 <./BlueWhaleLagrangianMethods_files/figure-latex/estimatedFR-1.pdf>]
-
-Package xcolor Warning: Incompatible color definition on input line 2464.
-
-
-Package xcolor Warning: Incompatible color definition on input line 2464.
-
-
-Package xcolor Warning: Incompatible color definition on input line 2486.
-
-
-Package xcolor Warning: Incompatible color definition on input line 2499.
-
-
-Package xcolor Warning: Incompatible color definition on input line 2499.
-
-
-Package xcolor Warning: Incompatible color definition on input line 2499.
-
-[49]
-
-Package xcolor Warning: Incompatible color definition on input line 2499.
-
-
-Package xcolor Warning: Incompatible color definition on input line 2499.
-
-[50] (BlueWhaleLagrangianMethods.aux)
-Package rerunfilecheck Info: File `BlueWhaleLagrangianMethods.out' has not chan
-ged.
-(rerunfilecheck)             Checksum: 5831DF9870B20E1AB5AF53DE88EDA995;5898.
- ) 
+[47 <./BlueWhaleLagrangianMethods_files/figure-latex/estimatedFR-1.pdf>] [48] [
+49] (BlueWhaleLagrangianMethods.aux) ) 
 Here is how much of TeX's memory you used:
- 15666 strings out of 478621
- 260858 string characters out of 2842749
- 631266 words of memory out of 3000000
- 33245 multiletter control sequences out of 15000+600000
- 459639 words of font info for 132 fonts, out of 8000000 for 9000
+ 15895 strings out of 478621
+ 262944 string characters out of 2842749
+ 632902 words of memory out of 3000000
+ 33431 multiletter control sequences out of 15000+600000
+ 460523 words of font info for 138 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,9n,63p,1025b,392s stack positions out of 5000i,500n,10000p,200000b,80000s
-{C:/Users/Musculus/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex
-.enc}{C:/Users/Musculus/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mat
-hit.enc}{C:/Users/Musculus/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-
-rm.enc}{C:/Users/Musculus/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-e
-c.enc}{C:/Users/Musculus/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ma
-thsy.enc}{C:/Users/Musculus/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm
--ts1.enc}<C:/Users/Musculus/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm
-/lmbx10.pfb><C:/Users/Musculus/AppData/Local/Programs/MiKTeX/fonts/type1/public
-/lm/lmbx12.pfb><C:/Users/Musculus/AppData/Local/Programs/MiKTeX/fonts/type1/pub
-lic/lm/lmex10.pfb><C:/Users/Musculus/AppData/Local/Programs/MiKTeX/fonts/type1/
-public/lm/lmmi10.pfb><C:/Users/Musculus/AppData/Local/Programs/MiKTeX/fonts/typ
-e1/public/lm/lmmi5.pfb><C:/Users/Musculus/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/lm/lmmi7.pfb><C:/Users/Musculus/AppData/Local/Programs/MiKTeX/fonts
-/type1/public/lm/lmr10.pfb><C:/Users/Musculus/AppData/Local/Programs/MiKTeX/fon
-ts/type1/public/lm/lmr12.pfb><C:/Users/Musculus/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/lm/lmr17.pfb><C:/Users/Musculus/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/lm/lmr7.pfb><C:/Users/Musculus/AppData/Local/Programs/MiKTe
-X/fonts/type1/public/lm/lmri10.pfb><C:/Users/Musculus/AppData/Local/Programs/Mi
-KTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/Musculus/AppData/Local/Programs
-/MiKTeX/fonts/type1/public/lm/lmtk10.pfb><C:/Users/Musculus/AppData/Local/Progr
-ams/MiKTeX/fonts/type1/public/lm/lmtt10.pfb><C:/Users/Musculus/AppData/Local/Pr
-ograms/MiKTeX/fonts/type1/public/lm/lmtti10.pfb>
-Output written on BlueWhaleLagrangianMethods.pdf (50 pages, 11864904 bytes).
+ 74i,9n,77p,1025b,545s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Users/Musculus/AppData/Local/Programs
+/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}{C:/Users/Musculus/AppData/Local/Progr
+ams/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/Musculus/AppData/Local/Pr
+ograms/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/Musculus/AppData/Local/Pro
+grams/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/Musculus/AppData/Local/Prog
+rams/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Users/Musculus/AppData/Local/P
+rograms/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}<C:/Users/Musculus/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/Musculus/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Musculus/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/Users/Musculus/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Users/Musculus/App
+Data/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi5.pfb><C:/Users/Musculus/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi7.pfb><C:/Users/Musculus
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Muscul
+us/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/Musc
+ulus/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/Mu
+sculus/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/M
+usculus/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/User
+s/Musculus/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/U
+sers/Musculus/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtk10.pfb><C
+:/Users/Musculus/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtko10.pf
+b><C:/Users/Musculus/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10
+.pfb><C:/Users/Musculus/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmt
+ti10.pfb>
+Output written on BlueWhaleLagrangianMethods.pdf (49 pages, 11892949 bytes).
 PDF statistics:
- 674 PDF objects out of 1000 (max. 8388607)
- 98 named destinations out of 1000 (max. 500000)
+ 725 PDF objects out of 1000 (max. 8388607)
+ 139 named destinations out of 1000 (max. 500000)
  29064 words of extra memory for PDF output out of 29859 (max. 10000000)
 

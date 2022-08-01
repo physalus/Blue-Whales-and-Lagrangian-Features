@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2022.1.19)  18 JUL 2022 13:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2022.1.19)  29 JUL 2022 13:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -215,12 +215,218 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
-) (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/xurl\xurl.sty
-Package: xurl 2020/12/30 v 0.09a modify URL breaks
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
-\Urlmuskip=\muskip17
-Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.st
+y
+Package: geometry 2020/01/02 v5.9 Page Geometry
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count272
+\Gm@cntv=\count273
+\c@Gm@tempcnt=\count274
+\Gm@bindingoffset=\dimen149
+\Gm@wd@mp=\dimen150
+\Gm@odd@mp=\dimen151
+\Gm@even@mp=\dimen152
+\Gm@layoutwidth=\dimen153
+\Gm@layoutheight=\dimen154
+\Gm@layouthoffset=\dimen155
+\Gm@layoutvoffset=\dimen156
+\Gm@dimlist=\toks25
+
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cf
+g))
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/fancyvrb\fancyvrb.st
+y
+Package: fancyvrb 2021/12/21 4.1b verbatim text (tvz,hv)
+\FV@CodeLineNo=\count275
+\FV@InFile=\read2
+\FV@TabBox=\box53
+\c@FancyVerbLine=\count276
+\FV@StepNumber=\count277
+\FV@OutFile=\write3
+) (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/framed\framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip53
+\fb@frw=\dimen157
+\fb@frh=\dimen158
+\FrameRule=\dimen159
+\FrameSep=\dimen160
+)
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.st
+y
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.st
+y
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphic
+s.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen161
+\Gin@req@width=\dimen162
+)
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.st
+y
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen163
+\lightrulewidth=\dimen164
+\cmidrulewidth=\dimen165
+\belowrulesep=\dimen166
+\belowbottomsep=\dimen167
+\aboverulesep=\dimen168
+\abovetopsep=\dimen169
+\cmidrulesep=\dimen170
+\cmidrulekern=\dimen171
+\defaultaddspace=\dimen172
+\@cmidla=\count278
+\@cmidlb=\count279
+\@aboverulesep=\dimen173
+\@belowrulesep=\dimen174
+\@thisruleclass=\count280
+\@lastruleclass=\count281
+\@thisrulewidth=\dimen175
+) (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.st
+y
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip54
+\LTright=\skip55
+\LTpre=\skip56
+\LTpost=\skip57
+\LTchunksize=\count282
+\LTcapwidth=\dimen176
+\LT@head=\box54
+\LT@firsthead=\box55
+\LT@foot=\box56
+\LT@lastfoot=\box57
+\LT@gbox=\box58
+\LT@cols=\count283
+\LT@rows=\count284
+\c@LT@tables=\count285
+\c@LT@chunks=\count286
+\LT@p@ftn=\toks26
+) (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen177
+\ar@mcellbox=\box59
+\extrarowheight=\dimen178
+\NC@list=\toks27
+\extratabsurround=\skip58
+\backup@length=\skip59
+\ar@cellbox=\box60
+)
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.st
+y
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip60
+\multirow@cntb=\count287
+\multirow@dima=\skip61
+\bigstrutjot=\dimen179
+) (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.st
+y
+\wrapoverhang=\dimen180
+\WF@size=\dimen181
+\c@WF@wrappedlines=\count288
+\WF@box=\box61
+\WF@everypar=\toks28
+Package: wrapfig 2003/01/31  v 3.6
+) (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count289
+\float@exts=\toks29
+\float@box=\box62
+\@float@everytoks=\toks30
+\@floatcapt=\box63
+)
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.st
+y
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+\everycr=\toks31
+\minrowclearance=\skip62
+)
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.
+sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+) (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/tabu\tabu.sty
+Package: tabu 2019/01/11 v2.9 - flexible LaTeX tabulars (FC+tabu-fixed)
+
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.st
+y
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box64
+\sift@deathcycles=\count290
+\@vwid@loff=\dimen182
+\@vwid@roff=\dimen183
+)
+\c@taburow=\count291
+\tabu@nbcols=\count292
+\tabu@cnt=\count293
+\tabu@Xcol=\count294
+\tabu@alloc=\count295
+\tabu@nested=\count296
+\tabu@target=\dimen184
+\tabu@spreadtarget=\dimen185
+\tabu@naturalX=\dimen186
+\tabucolX=\dimen187
+\tabu@Xsum=\dimen188
+\extrarowdepth=\dimen189
+\abovetabulinesep=\dimen190
+\belowtabulinesep=\dimen191
+\tabustrutrule=\dimen192
+\tabu@thebody=\toks32
+\tabu@footnotes=\toks33
+\tabu@box=\box65
+\tabu@arstrutbox=\box66
+\tabu@hleads=\box67
+\tabu@vleads=\box68
+\tabu@cellskip=\skip63
+)
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/threeparttable\three
+parttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box69
+)
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/threeparttablex\thre
+eparttablex.sty
+Package: threeparttablex 2013/07/23 v0.3 by daleif
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspace
+s.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 ))
+\TPTL@width=\skip64
+) (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/ulem\ulem.sty
+\UL@box=\box70
+\UL@hyphenbox=\box71
+\UL@skip=\skip65
+\UL@hook=\toks34
+\UL@height=\dimen193
+\UL@pe=\count297
+\UL@pixel=\dimen194
+\ULC@box=\box72
+Package: ulem 2019/11/18
+\ULdepth=\dimen195
+)
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/makecell\makecell.st
+y
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen196
+\c@nlinenum=\count298
+\TeXr@lab=\toks35
+)
 (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.st
 y
 Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
@@ -260,9 +466,9 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 y
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-\@linkdim=\dimen149
-\Hy@linkcounter=\count272
-\Hy@pagecounter=\count273
+\@linkdim=\dimen197
+\Hy@linkcounter=\count299
+\Hy@pagecounter=\count300
 (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
@@ -281,7 +487,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count274
+\Hy@SavedSpaceFactor=\count301
 (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
@@ -295,9 +501,13 @@ Package hyperref Info: Plain pages OFF on input line 4207.
 Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4445.
-\c@Hy@tempcnt=\count275
+\c@Hy@tempcnt=\count302
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
 LaTeX Info: Redefining \url on input line 4804.
-\XeTeXLinkMargin=\dimen150
+\XeTeXLinkMargin=\dimen198
 (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
@@ -306,9 +516,9 @@ alc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count276
-\Field@Width=\dimen151
-\Fld@charsize=\dimen152
+\Fld@menulength=\count303
+\Field@Width=\dimen199
+\Fld@charsize=\dimen256
 Package hyperref Info: Hyper figures OFF on input line 6076.
 Package hyperref Info: Link nesting OFF on input line 6081.
 Package hyperref Info: Hyper index ON on input line 6084.
@@ -324,9 +534,9 @@ y
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count277
-\c@Item=\count278
-\c@Hfootnote=\count279
+\Hy@abspage=\count304
+\c@Item=\count305
+\c@Hfootnote=\count306
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
@@ -339,8 +549,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count280
-\c@bookmark@seq@number=\count281
+\Fld@listcount=\count307
+\c@bookmark@seq@number=\count308
 
 (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerun
 filecheck.sty
@@ -353,223 +563,14 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 86.
 )
-\Hy@SectionHShift=\skip53
+\Hy@SectionHShift=\skip66
 )
 (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.
 def
 File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
-\BKM@id=\count282
-))
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.st
-y
-Package: geometry 2020/01/02 v5.9 Page Geometry
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
-Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-)
-\Gm@cnth=\count283
-\Gm@cntv=\count284
-\c@Gm@tempcnt=\count285
-\Gm@bindingoffset=\dimen153
-\Gm@wd@mp=\dimen154
-\Gm@odd@mp=\dimen155
-\Gm@even@mp=\dimen156
-\Gm@layoutwidth=\dimen157
-\Gm@layoutheight=\dimen158
-\Gm@layouthoffset=\dimen159
-\Gm@layoutvoffset=\dimen160
-\Gm@dimlist=\toks25
-
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cf
-g))
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/fancyvrb\fancyvrb.st
-y
-Package: fancyvrb 2021/12/21 4.1b verbatim text (tvz,hv)
-\FV@CodeLineNo=\count286
-\FV@InFile=\read2
-\FV@TabBox=\box53
-\c@FancyVerbLine=\count287
-\FV@StepNumber=\count288
-\FV@OutFile=\write3
-) (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/framed\framed.sty
-Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
-\OuterFrameSep=\skip54
-\fb@frw=\dimen161
-\fb@frh=\dimen162
-\FrameRule=\dimen163
-\FrameSep=\dimen164
-)
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.st
-y
-Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.st
-y
-Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
-Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-)
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphic
-s.cfg
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
-)
-Package graphics Info: Driver file: pdftex.def on input line 107.
-)
-\Gin@req@height=\dimen165
-\Gin@req@width=\dimen166
-)
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.st
-y
-Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen167
-\lightrulewidth=\dimen168
-\cmidrulewidth=\dimen169
-\belowrulesep=\dimen170
-\belowbottomsep=\dimen171
-\aboverulesep=\dimen172
-\abovetopsep=\dimen173
-\cmidrulesep=\dimen174
-\cmidrulekern=\dimen175
-\defaultaddspace=\dimen176
-\@cmidla=\count289
-\@cmidlb=\count290
-\@aboverulesep=\dimen177
-\@belowrulesep=\dimen178
-\@thisruleclass=\count291
-\@lastruleclass=\count292
-\@thisrulewidth=\dimen179
-) (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.st
-y
-Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
-\LTleft=\skip55
-\LTright=\skip56
-\LTpre=\skip57
-\LTpost=\skip58
-\LTchunksize=\count293
-\LTcapwidth=\dimen180
-\LT@head=\box54
-\LT@firsthead=\box55
-\LT@foot=\box56
-\LT@lastfoot=\box57
-\LT@gbox=\box58
-\LT@cols=\count294
-\LT@rows=\count295
-\c@LT@tables=\count296
-\c@LT@chunks=\count297
-\LT@p@ftn=\toks26
-) (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
-Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
-\col@sep=\dimen181
-\ar@mcellbox=\box59
-\extrarowheight=\dimen182
-\NC@list=\toks27
-\extratabsurround=\skip59
-\backup@length=\skip60
-\ar@cellbox=\box60
-)
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.st
-y
-Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
-\multirow@colwidth=\skip61
-\multirow@cntb=\count298
-\multirow@dima=\skip62
-\bigstrutjot=\dimen183
-) (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.st
-y
-\wrapoverhang=\dimen184
-\WF@size=\dimen185
-\c@WF@wrappedlines=\count299
-\WF@box=\box61
-\WF@everypar=\toks28
-Package: wrapfig 2003/01/31  v 3.6
-) (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
-Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count300
-\float@exts=\toks29
-\float@box=\box62
-\@float@everytoks=\toks30
-\@floatcapt=\box63
-)
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.st
-y
-Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
-\everycr=\toks31
-\minrowclearance=\skip63
-)
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.
-sty
-Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
-Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
-)
-Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
-) (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/tabu\tabu.sty
-Package: tabu 2019/01/11 v2.9 - flexible LaTeX tabulars (FC+tabu-fixed)
-
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.st
-y
-Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
-\@vwid@box=\box64
-\sift@deathcycles=\count301
-\@vwid@loff=\dimen186
-\@vwid@roff=\dimen187
-)
-\c@taburow=\count302
-\tabu@nbcols=\count303
-\tabu@cnt=\count304
-\tabu@Xcol=\count305
-\tabu@alloc=\count306
-\tabu@nested=\count307
-\tabu@target=\dimen188
-\tabu@spreadtarget=\dimen189
-\tabu@naturalX=\dimen190
-\tabucolX=\dimen191
-\tabu@Xsum=\dimen192
-\extrarowdepth=\dimen193
-\abovetabulinesep=\dimen194
-\belowtabulinesep=\dimen195
-\tabustrutrule=\dimen196
-\tabu@thebody=\toks32
-\tabu@footnotes=\toks33
-\tabu@box=\box65
-\tabu@arstrutbox=\box66
-\tabu@hleads=\box67
-\tabu@vleads=\box68
-\tabu@cellskip=\skip64
-)
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/threeparttable\three
-parttable.sty
-Package: threeparttable 2003/06/13  v 3.0
-\@tempboxb=\box69
-)
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/threeparttablex\thre
-eparttablex.sty
-Package: threeparttablex 2013/07/23 v0.3 by daleif
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
-Package: environ 2014/05/04 v0.3 A new way to define environments
-
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspace
-s.sty
-Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
-))
-\TPTL@width=\skip65
-) (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/ulem\ulem.sty
-\UL@box=\box70
-\UL@hyphenbox=\box71
-\UL@skip=\skip66
-\UL@hook=\toks34
-\UL@height=\dimen197
-\UL@pe=\count308
-\UL@pixel=\dimen198
-\ULC@box=\box72
-Package: ulem 2019/11/18
-\ULdepth=\dimen199
-)
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/makecell\makecell.st
-y
-Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
-\rotheadsize=\dimen256
-\c@nlinenum=\count309
-\TeXr@lab=\toks35
+\BKM@id=\count309
+)) (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/xurl\xurl.sty
+Package: xurl 2020/12/30 v 0.09a modify URL breaks
 )
 (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-
 pdftex.def
@@ -642,24 +643,6 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 s.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 133.
-
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
-Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
-
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.st
-y
-Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-)
-(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\get
-titlestring.sty
-Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
-)
-\c@section@level=\count317
-)
-LaTeX Info: Redefining \ref on input line 133.
-LaTeX Info: Redefining \pageref on input line 133.
-LaTeX Info: Redefining \nameref on input line 133.
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -694,6 +677,24 @@ LaTeX Info: Redefining \nameref on input line 133.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+Package hyperref Info: Link coloring OFF on input line 133.
+
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.st
+y
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\get
+titlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count317
+)
+LaTeX Info: Redefining \ref on input line 133.
+LaTeX Info: Redefining \pageref on input line 133.
+LaTeX Info: Redefining \nameref on input line 133.
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
 35.
 (C:\Users\Musculus\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
@@ -785,546 +786,514 @@ Underfull \vbox (badness 10000) detected at line 388
  []
 
 [5] [6] [7]
-Underfull \vbox (badness 10000) detected at line 573
+Underfull \vbox (badness 10000) detected at line 574
  []
 
 
-Underfull \vbox (badness 10000) detected at line 573
+Underfull \vbox (badness 10000) detected at line 574
  []
 
 [8]
-Overfull \hbox (5.15685pt too wide) in paragraph at lines 578--578
+Overfull \hbox (5.15685pt too wide) in paragraph at lines 622--622
  []|\T1/lmr/m/n/10 (-20) Year| 
  []
 
 
-Overfull \hbox (6.95369pt too wide) in paragraph at lines 578--579
+Overfull \hbox (6.95369pt too wide) in paragraph at lines 622--622
  []|\T1/lmr/m/n/10 (-20) Length 
  []
 
 
-Overfull \hbox (2.43016pt too wide) in paragraph at lines 578--579
+Overfull \hbox (2.43016pt too wide) in paragraph at lines 622--622
  \T1/lmr/m/n/10 (-20) (days)| 
  []
 
 
-Overfull \hbox (4.51015pt too wide) in paragraph at lines 579--580
+Overfull \hbox (4.51015pt too wide) in paragraph at lines 622--622
  []|\T1/lmr/m/n/10 (-20) Total 
  []
 
 
-Overfull \hbox (5.25679pt too wide) in paragraph at lines 579--580
+Overfull \hbox (5.25679pt too wide) in paragraph at lines 622--622
  \T1/lmr/m/n/10 (-20) Dives| 
  []
 
 
-Overfull \hbox (4.51015pt too wide) in paragraph at lines 580--582
+Overfull \hbox (4.51015pt too wide) in paragraph at lines 622--622
  []|\T1/lmr/m/n/10 (-20) Total 
  []
 
 
-Overfull \hbox (5.25679pt too wide) in paragraph at lines 580--582
+Overfull \hbox (5.25679pt too wide) in paragraph at lines 622--622
  \T1/lmr/m/n/10 (-20) Dives 
  []
 
 
-Overfull \hbox (0.62788pt too wide) in paragraph at lines 580--582
+Overfull \hbox (0.62788pt too wide) in paragraph at lines 622--622
  \T1/lmr/m/n/10 (-20) with 
  []
 
 
-Overfull \hbox (1.73634pt too wide) in paragraph at lines 580--582
+Overfull \hbox (1.73634pt too wide) in paragraph at lines 622--622
  \T1/lmr/m/n/10 (-20) GPS| 
  []
 
 
-Overfull \hbox (0.89642pt too wide) in paragraph at lines 582--584
+Overfull \hbox (0.89642pt too wide) in paragraph at lines 622--622
  []|\T1/lmr/m/n/10 (-20) Total 
  []
 
 
-Overfull \hbox (1.64307pt too wide) in paragraph at lines 582--584
+Overfull \hbox (1.64307pt too wide) in paragraph at lines 622--622
  \T1/lmr/m/n/10 (-20) Dives 
  []
 
 
-Overfull \hbox (4.58817pt too wide) in paragraph at lines 582--584
+Overfull \hbox (4.58817pt too wide) in paragraph at lines 622--622
  \T1/lmr/m/n/10 (-20) FTLE| 
  []
 
 
-Overfull \hbox (1.64307pt too wide) in paragraph at lines 584--586
+Overfull \hbox (1.64307pt too wide) in paragraph at lines 622--622
  \T1/lmr/m/n/10 (-20) Dives 
  []
 
 
-Overfull \hbox (2.00244pt too wide) in paragraph at lines 586--588
+Overfull \hbox (2.00244pt too wide) in paragraph at lines 622--622
  []|\T1/lmr/m/n/10 (-20) Mean 
  []
 
 
-Overfull \hbox (0.62646pt too wide) in paragraph at lines 586--588
+Overfull \hbox (0.62646pt too wide) in paragraph at lines 622--622
  \T1/lmr/m/n/10 (-20) Over- 
  []
 
 
-Overfull \hbox (0.95183pt too wide) in paragraph at lines 586--588
+Overfull \hbox (0.95183pt too wide) in paragraph at lines 622--622
  \T1/lmr/m/n/10 (-20) Daily 
  []
 
 
-Overfull \hbox (0.62646pt too wide) in paragraph at lines 588--590
+Overfull \hbox (0.62646pt too wide) in paragraph at lines 622--622
  \T1/lmr/m/n/10 (-20) Over- 
  []
 
 
-Overfull \hbox (0.95183pt too wide) in paragraph at lines 588--590
+Overfull \hbox (0.95183pt too wide) in paragraph at lines 622--622
  \T1/lmr/m/n/10 (-20) Daily 
  []
 
 
-Overfull \hbox (2.00244pt too wide) in paragraph at lines 590--592
+Overfull \hbox (2.00244pt too wide) in paragraph at lines 622--622
  []|\T1/lmr/m/n/10 (-20) Mean 
  []
 
 
-Overfull \hbox (5.14621pt too wide) in paragraph at lines 596--596
+Overfull \hbox (5.14621pt too wide) in paragraph at lines 622--622
  []|\T1/lmr/m/n/10 (-20) 2016| 
  []
 
 
-Overfull \hbox (0.64096pt too wide) in paragraph at lines 596--596
+Overfull \hbox (0.64096pt too wide) in paragraph at lines 622--622
  []|\T1/lmr/m/n/10 (-20) 24.10| 
  []
 
 
-Overfull \hbox (4.35402pt too wide) in paragraph at lines 598--598
+Overfull \hbox (4.35402pt too wide) in paragraph at lines 622--622
  []|\T1/lmr/m/n/10 (-20) Southern 
  []
 
 
-Overfull \hbox (5.14621pt too wide) in paragraph at lines 598--598
+Overfull \hbox (5.14621pt too wide) in paragraph at lines 622--622
  []|\T1/lmr/m/n/10 (-20) 2016| 
  []
 
 
-Overfull \hbox (0.64096pt too wide) in paragraph at lines 598--598
+Overfull \hbox (0.64096pt too wide) in paragraph at lines 622--622
  []|\T1/lmr/m/n/10 (-20) 29.20| 
  []
 
 
-Overfull \hbox (4.35402pt too wide) in paragraph at lines 600--600
+Overfull \hbox (4.35402pt too wide) in paragraph at lines 622--622
  []|\T1/lmr/m/n/10 (-20) Southern 
  []
 
 
-Overfull \hbox (5.14621pt too wide) in paragraph at lines 600--600
+Overfull \hbox (5.14621pt too wide) in paragraph at lines 622--622
  []|\T1/lmr/m/n/10 (-20) 2016| 
  []
 
 
-Overfull \hbox (0.64096pt too wide) in paragraph at lines 600--600
+Overfull \hbox (0.64096pt too wide) in paragraph at lines 622--622
  []|\T1/lmr/m/n/10 (-20) 25.50| 
  []
 
 
-Overfull \hbox (4.35402pt too wide) in paragraph at lines 602--602
+Overfull \hbox (4.35402pt too wide) in paragraph at lines 622--622
  []|\T1/lmr/m/n/10 (-20) Southern 
  []
 
 
-Overfull \hbox (5.14621pt too wide) in paragraph at lines 602--602
+Overfull \hbox (5.14621pt too wide) in paragraph at lines 622--622
  []|\T1/lmr/m/n/10 (-20) 2017| 
  []
 
 
-Overfull \hbox (1.53249pt too wide) in paragraph at lines 602--602
+Overfull \hbox (1.53249pt too wide) in paragraph at lines 622--622
  []|\T1/lmr/m/n/10 (-20) 2728| 
  []
 
 
-Overfull \hbox (1.53249pt too wide) in paragraph at lines 602--602
+Overfull \hbox (1.53249pt too wide) in paragraph at lines 622--622
  []|\T1/lmr/m/n/10 (-20) 2588| 
  []
 
 
-Overfull \hbox (0.64096pt too wide) in paragraph at lines 602--602
+Overfull \hbox (0.64096pt too wide) in paragraph at lines 622--622
  []|\T1/lmr/m/n/10 (-20) 23.20| 
  []
 
 
-Overfull \hbox (4.35402pt too wide) in paragraph at lines 604--604
+Overfull \hbox (4.35402pt too wide) in paragraph at lines 622--622
  []|\T1/lmr/m/n/10 (-20) Southern 
  []
 
 
-Overfull \hbox (5.14621pt too wide) in paragraph at lines 604--604
+Overfull \hbox (5.14621pt too wide) in paragraph at lines 622--622
  []|\T1/lmr/m/n/10 (-20) 2017| 
  []
 
 
-Overfull \hbox (0.64096pt too wide) in paragraph at lines 604--604
+Overfull \hbox (0.64096pt too wide) in paragraph at lines 622--622
  []|\T1/lmr/m/n/10 (-20) 22.00| 
  []
 
 
-Overfull \hbox (4.35402pt too wide) in paragraph at lines 606--606
+Overfull \hbox (4.35402pt too wide) in paragraph at lines 622--622
  []|\T1/lmr/m/n/10 (-20) Southern 
  []
 
 
-Overfull \hbox (5.14621pt too wide) in paragraph at lines 606--606
+Overfull \hbox (5.14621pt too wide) in paragraph at lines 622--622
  []|\T1/lmr/m/n/10 (-20) 2017| 
  []
 
 
-Overfull \hbox (0.64096pt too wide) in paragraph at lines 606--606
+Overfull \hbox (0.64096pt too wide) in paragraph at lines 622--622
  []|\T1/lmr/m/n/10 (-20) 25.90| 
  []
 
 
-Overfull \hbox (5.14621pt too wide) in paragraph at lines 608--608
+Overfull \hbox (5.14621pt too wide) in paragraph at lines 622--622
  []|\T1/lmr/m/n/10 (-20) 2018| 
  []
 
 
-Overfull \hbox (1.53249pt too wide) in paragraph at lines 608--608
+Overfull \hbox (1.53249pt too wide) in paragraph at lines 622--622
  []|\T1/lmr/m/n/10 (-20) 1152| 
  []
 
 
-Overfull \hbox (0.64096pt too wide) in paragraph at lines 608--608
+Overfull \hbox (0.64096pt too wide) in paragraph at lines 622--622
  []|\T1/lmr/m/n/10 (-20) 21.00| 
  []
 
 
-Overfull \hbox (5.14621pt too wide) in paragraph at lines 610--610
+Overfull \hbox (5.14621pt too wide) in paragraph at lines 622--622
  []|\T1/lmr/m/n/10 (-20) 2019| 
  []
 
 
-Overfull \hbox (0.64096pt too wide) in paragraph at lines 610--610
+Overfull \hbox (0.64096pt too wide) in paragraph at lines 622--622
  []|\T1/lmr/m/n/10 (-20) 17.60| 
  []
 
 
-Overfull \hbox (4.6536pt too wide) in paragraph at lines 612--612
+Overfull \hbox (4.6536pt too wide) in paragraph at lines 622--622
  []|\T1/lmr/m/n/10 (-20) Northern 
  []
 
 
-Overfull \hbox (5.14621pt too wide) in paragraph at lines 612--612
+Overfull \hbox (5.14621pt too wide) in paragraph at lines 622--622
  []|\T1/lmr/m/n/10 (-20) 2019| 
  []
 
 
-Overfull \hbox (1.53249pt too wide) in paragraph at lines 612--612
+Overfull \hbox (1.53249pt too wide) in paragraph at lines 622--622
  []|\T1/lmr/m/n/10 (-20) 1502| 
  []
 
 
-Overfull \hbox (1.53249pt too wide) in paragraph at lines 612--612
+Overfull \hbox (1.53249pt too wide) in paragraph at lines 622--622
  []|\T1/lmr/m/n/10 (-20) 1062| 
  []
 
 
-Overfull \hbox (0.64096pt too wide) in paragraph at lines 612--612
+Overfull \hbox (0.64096pt too wide) in paragraph at lines 622--622
  []|\T1/lmr/m/n/10 (-20) 24.40| 
  []
 
 
-Overfull \hbox (5.14621pt too wide) in paragraph at lines 614--614
+Overfull \hbox (5.14621pt too wide) in paragraph at lines 622--622
  []|\T1/lmr/m/n/10 (-20) 2020| 
  []
 
 
-Overfull \hbox (0.64096pt too wide) in paragraph at lines 614--614
+Overfull \hbox (0.64096pt too wide) in paragraph at lines 622--622
  []|\T1/lmr/m/n/10 (-20) 24.90| 
  []
 
 
-Overfull \hbox (1.53249pt too wide) in paragraph at lines 616--616
+Overfull \hbox (1.53249pt too wide) in paragraph at lines 622--622
  []|\T1/lmr/m/n/10 (-20) 9605| 
  []
 
 
-Overfull \hbox (1.53249pt too wide) in paragraph at lines 616--616
+Overfull \hbox (1.53249pt too wide) in paragraph at lines 622--622
  []|\T1/lmr/m/n/10 (-20) 8162| 
  []
 
 
-Overfull \hbox (0.64096pt too wide) in paragraph at lines 616--616
+Overfull \hbox (0.64096pt too wide) in paragraph at lines 622--622
  []|\T1/lmr/m/n/10 (-20) 23.78| 
  []
 
 [9] [10]
+Underfull \vbox (badness 10000) detected at line 697
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 697
+ []
+
+[11]
 <BlueWhaleLagrangianMethods_files/figure-latex/DeploymentOverViewMap-1.pdf, id=
-136, 867.24pt x 867.24pt>
+152, 867.24pt x 867.24pt>
 File: BlueWhaleLagrangianMethods_files/figure-latex/DeploymentOverViewMap-1.pdf
  Graphic file (type pdf)
 <use BlueWhaleLagrangianMethods_files/figure-latex/DeploymentOverViewMap-1.pdf>
 
 Package pdftex.def Info: BlueWhaleLagrangianMethods_files/figure-latex/Deployme
-ntOverViewMap-1.pdf  used on input line 694.
+ntOverViewMap-1.pdf  used on input line 699.
 (pdftex.def)             Requested size: 469.75827pt x 469.75827pt.
-[11] [12 <./BlueWhaleLagrangianMethods_files/figure-latex/DeploymentOverViewMap
--1.pdf>]
-<./rmdfiles/FTLE3day.jpg, id=164, 527.02644pt x 860.21375pt>
+[12 <./BlueWhaleLagrangianMethods_files/figure-latex/DeploymentOverViewMap-1.pd
+f>]
+<./rmdfiles/FTLE3day.jpg, id=176, 527.02644pt x 860.21375pt>
 File: ./rmdfiles/FTLE3day.jpg Graphic file (type jpg)
 <use ./rmdfiles/FTLE3day.jpg>
-Package pdftex.def Info: ./rmdfiles/FTLE3day.jpg  used on input line 784.
+Package pdftex.def Info: ./rmdfiles/FTLE3day.jpg  used on input line 789.
 (pdftex.def)             Requested size: 398.50165pt x 650.43529pt.
 
-LaTeX Warning: Float too large for page by 23.9497pt on input line 786.
+LaTeX Warning: Float too large for page by 23.9497pt on input line 791.
 
-[13] [14
-pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) ha
-s been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.806 
-       <./rmdfiles/FTLE3day.jpg>] [15]
-<BlueWhaleLagrangianMethods_files/figure-latex/plotBackground-1.pdf, id=187, 86
+[13] [14 <./rmdfiles/FTLE3day.jpg>] [15]
+<BlueWhaleLagrangianMethods_files/figure-latex/plotBackground-1.pdf, id=199, 86
 7.24pt x 578.16pt>
 File: BlueWhaleLagrangianMethods_files/figure-latex/plotBackground-1.pdf Graphi
 c file (type pdf)
 <use BlueWhaleLagrangianMethods_files/figure-latex/plotBackground-1.pdf>
 Package pdftex.def Info: BlueWhaleLagrangianMethods_files/figure-latex/plotBack
-ground-1.pdf  used on input line 891.
+ground-1.pdf  used on input line 896.
 (pdftex.def)             Requested size: 469.75827pt x 313.17216pt.
-[16 <./BlueWhaleLagrangianMethods_files/figure-latex/plotBackground-1.pdf>]
-Underfull \vbox (badness 10000) detected at line 964
- []
-
-
-Underfull \vbox (badness 10000) detected at line 964
- []
-
-[17]
-<BlueWhaleLagrangianMethods_files/figure-latex/densityP-1.pdf, id=207, 1156.32p
+[16] [17 <./BlueWhaleLagrangianMethods_files/figure-latex/plotBackground-1.pdf>
+]
+<BlueWhaleLagrangianMethods_files/figure-latex/densityP-1.pdf, id=219, 1156.32p
 t x 578.16pt>
 File: BlueWhaleLagrangianMethods_files/figure-latex/densityP-1.pdf Graphic file
  (type pdf)
 <use BlueWhaleLagrangianMethods_files/figure-latex/densityP-1.pdf>
 Package pdftex.def Info: BlueWhaleLagrangianMethods_files/figure-latex/densityP
--1.pdf  used on input line 966.
+-1.pdf  used on input line 971.
 (pdftex.def)             Requested size: 469.75385pt x 234.87692pt.
-[18 <./BlueWhaleLagrangianMethods_files/figure-latex/densityP-1.pdf>] [19]
-<./rmdfiles/Bm170926-TDR14-Tracks.png, id=224, 1156.32pt x 722.7pt>
+[18] [19 <./BlueWhaleLagrangianMethods_files/figure-latex/densityP-1.pdf>] [20]
+<./rmdfiles/Bm170926-TDR14-Tracks.png, id=241, 1156.32pt x 722.7pt>
 File: ./rmdfiles/Bm170926-TDR14-Tracks.png Graphic file (type png)
 <use ./rmdfiles/Bm170926-TDR14-Tracks.png>
 Package pdftex.def Info: ./rmdfiles/Bm170926-TDR14-Tracks.png  used on input li
-ne 1127.
+ne 1132.
 (pdftex.def)             Requested size: 469.75385pt x 293.59615pt.
-[20
-pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) ha
-s been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.1148 \begin{Shaded}
-                      <./rmdfiles/Bm170926-TDR14-Tracks.png>] [21]
-<BlueWhaleLagrangianMethods_files/figure-latex/ACF_feedingGLMM-1.pdf, id=237, 4
+[21 <./rmdfiles/Bm170926-TDR14-Tracks.png>]
+<BlueWhaleLagrangianMethods_files/figure-latex/ACF_feedingGLMM-1.pdf, id=249, 4
 69.755pt x 325.215pt>
 File: BlueWhaleLagrangianMethods_files/figure-latex/ACF_feedingGLMM-1.pdf Graph
 ic file (type pdf)
 <use BlueWhaleLagrangianMethods_files/figure-latex/ACF_feedingGLMM-1.pdf>
 Package pdftex.def Info: BlueWhaleLagrangianMethods_files/figure-latex/ACF_feed
-ingGLMM-1.pdf  used on input line 1216.
+ingGLMM-1.pdf  used on input line 1221.
 (pdftex.def)             Requested size: 234.87692pt x 162.6071pt.
-<BlueWhaleLagrangianMethods_files/figure-latex/ACF_feedingGLMM-2.pdf, id=238, 4
+<BlueWhaleLagrangianMethods_files/figure-latex/ACF_feedingGLMM-2.pdf, id=250, 4
 69.755pt x 325.215pt>
 File: BlueWhaleLagrangianMethods_files/figure-latex/ACF_feedingGLMM-2.pdf Graph
 ic file (type pdf)
 <use BlueWhaleLagrangianMethods_files/figure-latex/ACF_feedingGLMM-2.pdf>
 Package pdftex.def Info: BlueWhaleLagrangianMethods_files/figure-latex/ACF_feed
-ingGLMM-2.pdf  used on input line 1217.
+ingGLMM-2.pdf  used on input line 1222.
 (pdftex.def)             Requested size: 234.87692pt x 162.6071pt.
 
-Overfull \hbox (2.22104pt too wide) in paragraph at lines 1216--1218
+Overfull \hbox (2.22104pt too wide) in paragraph at lines 1221--1223
 [][] [] 
  []
 
-[22 <./BlueWhaleLagrangianMethods_files/figure-latex/ACF_feedingGLMM-1.pdf> <./
-BlueWhaleLagrangianMethods_files/figure-latex/ACF_feedingGLMM-2.pdf>]
+[22]
 <BlueWhaleLagrangianMethods_files/figure-latex/pftleLME_AR1-1.pdf, id=255, 867.
 24pt x 578.16pt>
 File: BlueWhaleLagrangianMethods_files/figure-latex/pftleLME_AR1-1.pdf Graphic 
 file (type pdf)
 <use BlueWhaleLagrangianMethods_files/figure-latex/pftleLME_AR1-1.pdf>
 Package pdftex.def Info: BlueWhaleLagrangianMethods_files/figure-latex/pftleLME
-_AR1-1.pdf  used on input line 1264.
+_AR1-1.pdf  used on input line 1269.
 (pdftex.def)             Requested size: 469.75827pt x 313.17216pt.
-
-Overfull \vbox (0.18784pt too high) detected at line 1311
- []
-
-[23 <./BlueWhaleLagrangianMethods_files/figure-latex/pftleLME_AR1-1.pdf>] [24]
-<BlueWhaleLagrangianMethods_files/figure-latex/ftle_glmmCRW_Plot-1.pdf, id=275,
+[23 <./BlueWhaleLagrangianMethods_files/figure-latex/ACF_feedingGLMM-1.pdf> <./
+BlueWhaleLagrangianMethods_files/figure-latex/ACF_feedingGLMM-2.pdf>] [24 <./Bl
+ueWhaleLagrangianMethods_files/figure-latex/pftleLME_AR1-1.pdf>] [25]
+<BlueWhaleLagrangianMethods_files/figure-latex/ftle_glmmCRW_Plot-1.pdf, id=292,
  867.24pt x 578.16pt>
 File: BlueWhaleLagrangianMethods_files/figure-latex/ftle_glmmCRW_Plot-1.pdf Gra
 phic file (type pdf)
 <use BlueWhaleLagrangianMethods_files/figure-latex/ftle_glmmCRW_Plot-1.pdf>
 Package pdftex.def Info: BlueWhaleLagrangianMethods_files/figure-latex/ftle_glm
-mCRW_Plot-1.pdf  used on input line 1402.
+mCRW_Plot-1.pdf  used on input line 1407.
 (pdftex.def)             Requested size: 469.75827pt x 313.17216pt.
-
-Overfull \hbox (169.27948pt too wide) in paragraph at lines 1402--1403
- []\T1/lmr/bx/n/10 (-20) Plot CRW + Blue Whale Mod-els[] [] 
+[26]
+Overfull \vbox (0.7391pt too high) detected at line 1451
  []
 
-[25]
-Overfull \vbox (0.7391pt too high) detected at line 1446
- []
-
-[26 <./BlueWhaleLagrangianMethods_files/figure-latex/ftle_glmmCRW_Plot-1.pdf>] 
-[27] [28] [29] [30]
-<BlueWhaleLagrangianMethods_files/figure-latex/ftleShiftPlotAll-1.pdf, id=321, 
+[27 <./BlueWhaleLagrangianMethods_files/figure-latex/ftle_glmmCRW_Plot-1.pdf>] 
+[28] [29] [30] [31]
+<BlueWhaleLagrangianMethods_files/figure-latex/ftleShiftPlotAll-1.pdf, id=333, 
 867.24pt x 578.16pt>
 File: BlueWhaleLagrangianMethods_files/figure-latex/ftleShiftPlotAll-1.pdf Grap
 hic file (type pdf)
 <use BlueWhaleLagrangianMethods_files/figure-latex/ftleShiftPlotAll-1.pdf>
 Package pdftex.def Info: BlueWhaleLagrangianMethods_files/figure-latex/ftleShif
-tPlotAll-1.pdf  used on input line 1726.
+tPlotAll-1.pdf  used on input line 1731.
 (pdftex.def)             Requested size: 469.75827pt x 313.17216pt.
-[31] [32 <./BlueWhaleLagrangianMethods_files/figure-latex/ftleShiftPlotAll-1.pd
+[32] [33 <./BlueWhaleLagrangianMethods_files/figure-latex/ftleShiftPlotAll-1.pd
 f>]
-Overfull \vbox (0.98735pt too high) detected at line 1843
+Overfull \vbox (0.98735pt too high) detected at line 1848
  []
 
-[33] [34]
+[34] [35]
 <BlueWhaleLagrangianMethods_files/figure-latex/plot_hmm_2_Stationary-1.pdf, id=
-352, 867.24pt x 578.16pt>
+362, 867.24pt x 578.16pt>
 File: BlueWhaleLagrangianMethods_files/figure-latex/plot_hmm_2_Stationary-1.pdf
  Graphic file (type pdf)
 <use BlueWhaleLagrangianMethods_files/figure-latex/plot_hmm_2_Stationary-1.pdf>
 
 Package pdftex.def Info: BlueWhaleLagrangianMethods_files/figure-latex/plot_hmm
-_2_Stationary-1.pdf  used on input line 1932.
+_2_Stationary-1.pdf  used on input line 1937.
 (pdftex.def)             Requested size: 469.75827pt x 313.17216pt.
-[35]
-Underfull \vbox (badness 1789) detected at line 1967
+[36]
+Underfull \vbox (badness 1789) detected at line 1972
  []
 
-[36 <./BlueWhaleLagrangianMethods_files/figure-latex/plot_hmm_2_Stationary-1.pd
+[37 <./BlueWhaleLagrangianMethods_files/figure-latex/plot_hmm_2_Stationary-1.pd
 f>]
-<BlueWhaleLagrangianMethods_files/figure-latex/plotGLMMVSHMM-1.pdf, id=370, 867
+<BlueWhaleLagrangianMethods_files/figure-latex/plotGLMMVSHMM-1.pdf, id=381, 867
 .24pt x 578.16pt>
 File: BlueWhaleLagrangianMethods_files/figure-latex/plotGLMMVSHMM-1.pdf Graphic
  file (type pdf)
 <use BlueWhaleLagrangianMethods_files/figure-latex/plotGLMMVSHMM-1.pdf>
 Package pdftex.def Info: BlueWhaleLagrangianMethods_files/figure-latex/plotGLMM
-VSHMM-1.pdf  used on input line 1969.
+VSHMM-1.pdf  used on input line 1974.
 (pdftex.def)             Requested size: 469.75827pt x 313.17216pt.
-
-Overfull \hbox (173.57695pt too wide) in paragraph at lines 1969--1970
- []\T1/lmr/bx/n/10 (-20) Comparison of GLMM and HMM[] [] 
- []
-
-[37 <./BlueWhaleLagrangianMethods_files/figure-latex/plotGLMMVSHMM-1.pdf>]
-<BlueWhaleLagrangianMethods_files/figure-latex/individualFR-1.pdf, id=390, 867.
+[38 <./BlueWhaleLagrangianMethods_files/figure-latex/plotGLMMVSHMM-1.pdf>]
+<BlueWhaleLagrangianMethods_files/figure-latex/individualFR-1.pdf, id=400, 867.
 24pt x 578.16pt>
 File: BlueWhaleLagrangianMethods_files/figure-latex/individualFR-1.pdf Graphic 
 file (type pdf)
 <use BlueWhaleLagrangianMethods_files/figure-latex/individualFR-1.pdf>
 Package pdftex.def Info: BlueWhaleLagrangianMethods_files/figure-latex/individu
-alFR-1.pdf  used on input line 2023.
+alFR-1.pdf  used on input line 2028.
 (pdftex.def)             Requested size: 469.75827pt x 313.17216pt.
-[38 <./BlueWhaleLagrangianMethods_files/figure-latex/individualFR-1.pdf>]
-Underfull \vbox (badness 10000) detected at line 2110
+[39 <./BlueWhaleLagrangianMethods_files/figure-latex/individualFR-1.pdf>]
+Underfull \vbox (badness 10000) detected at line 2115
  []
 
 
-Underfull \vbox (badness 10000) detected at line 2110
+Underfull \vbox (badness 10000) detected at line 2115
  []
 
-[39]
+[40]
 <BlueWhaleLagrangianMethods_files/figure-latex/hmmDetermineFRPercentiles-1.pdf,
- id=405, 867.24pt x 578.16pt>
+ id=415, 867.24pt x 578.16pt>
 File: BlueWhaleLagrangianMethods_files/figure-latex/hmmDetermineFRPercentiles-1
 .pdf Graphic file (type pdf)
 <use BlueWhaleLagrangianMethods_files/figure-latex/hmmDetermineFRPercentiles-1.
 pdf>
 Package pdftex.def Info: BlueWhaleLagrangianMethods_files/figure-latex/hmmDeter
-mineFRPercentiles-1.pdf  used on input line 2112.
+mineFRPercentiles-1.pdf  used on input line 2117.
 (pdftex.def)             Requested size: 469.75827pt x 313.17216pt.
-[40 <./BlueWhaleLagrangianMethods_files/figure-latex/hmmDetermineFRPercentiles-
-1.pdf>] [41]
-<BlueWhaleLagrangianMethods_files/figure-latex/fit_hmm4state-1.pdf, id=426, 867
+[41 <./BlueWhaleLagrangianMethods_files/figure-latex/hmmDetermineFRPercentiles-
+1.pdf>]
+Overfull \vbox (1.43073pt too high) detected at line 2188
+ []
+
+[42]
+<BlueWhaleLagrangianMethods_files/figure-latex/fit_hmm4state-1.pdf, id=436, 867
 .24pt x 578.16pt>
 File: BlueWhaleLagrangianMethods_files/figure-latex/fit_hmm4state-1.pdf Graphic
  file (type pdf)
 <use BlueWhaleLagrangianMethods_files/figure-latex/fit_hmm4state-1.pdf>
 Package pdftex.def Info: BlueWhaleLagrangianMethods_files/figure-latex/fit_hmm4
-state-1.pdf  used on input line 2189.
+state-1.pdf  used on input line 2194.
 (pdftex.def)             Requested size: 469.75827pt x 313.17216pt.
-<BlueWhaleLagrangianMethods_files/figure-latex/fit_hmm4state-2.pdf, id=427, 867
+<BlueWhaleLagrangianMethods_files/figure-latex/fit_hmm4state-2.pdf, id=437, 867
 .24pt x 578.16pt>
 File: BlueWhaleLagrangianMethods_files/figure-latex/fit_hmm4state-2.pdf Graphic
  file (type pdf)
 <use BlueWhaleLagrangianMethods_files/figure-latex/fit_hmm4state-2.pdf>
 Package pdftex.def Info: BlueWhaleLagrangianMethods_files/figure-latex/fit_hmm4
-state-2.pdf  used on input line 2190.
+state-2.pdf  used on input line 2196.
 (pdftex.def)             Requested size: 469.75827pt x 313.17216pt.
-<BlueWhaleLagrangianMethods_files/figure-latex/fit_hmm4state-3.pdf, id=428, 867
+[43 <./BlueWhaleLagrangianMethods_files/figure-latex/fit_hmm4state-1.pdf>]
+<BlueWhaleLagrangianMethods_files/figure-latex/fit_hmm4state-3.pdf, id=448, 867
 .24pt x 578.16pt>
 File: BlueWhaleLagrangianMethods_files/figure-latex/fit_hmm4state-3.pdf Graphic
  file (type pdf)
 <use BlueWhaleLagrangianMethods_files/figure-latex/fit_hmm4state-3.pdf>
 Package pdftex.def Info: BlueWhaleLagrangianMethods_files/figure-latex/fit_hmm4
-state-3.pdf  used on input line 2191.
+state-3.pdf  used on input line 2198.
 (pdftex.def)             Requested size: 469.75827pt x 313.17216pt.
-[42 <./BlueWhaleLagrangianMethods_files/figure-latex/fit_hmm4state-1.pdf> <./Bl
-ueWhaleLagrangianMethods_files/figure-latex/fit_hmm4state-2.pdf>]
-Underfull \vbox (badness 1789) detected at line 2300
- []
-
-[43 <./BlueWhaleLagrangianMethods_files/figure-latex/fit_hmm4state-3.pdf>]
-Underfull \vbox (badness 10000) detected at line 2300
+[44 <./BlueWhaleLagrangianMethods_files/figure-latex/fit_hmm4state-2.pdf> <./Bl
+ueWhaleLagrangianMethods_files/figure-latex/fit_hmm4state-3.pdf>]
+Underfull \vbox (badness 10000) detected at line 2307
  []
 
 
-Underfull \vbox (badness 10000) detected at line 2300
+Underfull \vbox (badness 10000) detected at line 2307
  []
 
-[44]
+[45]
 <BlueWhaleLagrangianMethods_files/figure-latex/plot_hmm_4_Stationary-1.pdf, id=
-459, 1011.78pt x 578.16pt>
+469, 867.24pt x 578.16pt>
 File: BlueWhaleLagrangianMethods_files/figure-latex/plot_hmm_4_Stationary-1.pdf
  Graphic file (type pdf)
 <use BlueWhaleLagrangianMethods_files/figure-latex/plot_hmm_4_Stationary-1.pdf>
 
 Package pdftex.def Info: BlueWhaleLagrangianMethods_files/figure-latex/plot_hmm
-_4_Stationary-1.pdf  used on input line 2302.
-(pdftex.def)             Requested size: 469.76266pt x 268.4358pt.
-
-Overfull \hbox (154.88426pt too wide) in paragraph at lines 2302--2303
- []\T1/lmr/bx/n/10 (-20) Stationary State Prob-a-bil-i-ties[] [] 
- []
-
-[45 <./BlueWhaleLagrangianMethods_files/figure-latex/plot_hmm_4_Stationary-1.pd
-f>]
-Underfull \vbox (badness 10000) detected at line 2382
- []
-
-[46]
-<BlueWhaleLagrangianMethods_files/figure-latex/estimatedFR-1.pdf, id=481, 867.2
+_4_Stationary-1.pdf  used on input line 2309.
+(pdftex.def)             Requested size: 469.75827pt x 313.17216pt.
+[46] [47 <./BlueWhaleLagrangianMethods_files/figure-latex/plot_hmm_4_Stationary
+-1.pdf>]
+<BlueWhaleLagrangianMethods_files/figure-latex/estimatedFR-1.pdf, id=491, 867.2
 4pt x 578.16pt>
 File: BlueWhaleLagrangianMethods_files/figure-latex/estimatedFR-1.pdf Graphic f
 ile (type pdf)
 <use BlueWhaleLagrangianMethods_files/figure-latex/estimatedFR-1.pdf>
 Package pdftex.def Info: BlueWhaleLagrangianMethods_files/figure-latex/estimate
-dFR-1.pdf  used on input line 2384.
+dFR-1.pdf  used on input line 2391.
 (pdftex.def)             Requested size: 469.75827pt x 313.17216pt.
-[47 <./BlueWhaleLagrangianMethods_files/figure-latex/estimatedFR-1.pdf>] [48] [
-49] (BlueWhaleLagrangianMethods.aux) ) 
+[48] [49 <./BlueWhaleLagrangianMethods_files/figure-latex/estimatedFR-1.pdf>] [
+50] (BlueWhaleLagrangianMethods.aux) ) 
 Here is how much of TeX's memory you used:
- 15895 strings out of 478621
- 262944 string characters out of 2842749
- 632902 words of memory out of 3000000
- 33431 multiletter control sequences out of 15000+600000
+ 15919 strings out of 478621
+ 264456 string characters out of 2842749
+ 631202 words of memory out of 3000000
+ 33454 multiletter control sequences out of 15000+600000
  460523 words of font info for 138 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 74i,9n,77p,1025b,545s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 74i,12n,77p,1025b,545s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/Musculus/AppData/Local/Programs
 /MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}{C:/Users/Musculus/AppData/Local/Progr
 ams/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/Musculus/AppData/Local/Pr
@@ -1349,9 +1318,9 @@ sers/Musculus/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtk10.pfb><C
 b><C:/Users/Musculus/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10
 .pfb><C:/Users/Musculus/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmt
 ti10.pfb>
-Output written on BlueWhaleLagrangianMethods.pdf (49 pages, 11892949 bytes).
+Output written on BlueWhaleLagrangianMethods.pdf (50 pages, 11896644 bytes).
 PDF statistics:
- 725 PDF objects out of 1000 (max. 8388607)
- 139 named destinations out of 1000 (max. 500000)
- 29064 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 753 PDF objects out of 1000 (max. 8388607)
+ 140 named destinations out of 1000 (max. 500000)
+ 29112 words of extra memory for PDF output out of 29859 (max. 10000000)
 

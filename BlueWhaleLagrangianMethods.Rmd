@@ -16,7 +16,7 @@ output:
     fig_caption: yes
     highlight: tango
     toc: yes
-    toc_depth: 4
+    toc_depth: 5
 email: musculus@stanford.edu
 ---
 <style>
@@ -425,7 +425,8 @@ kable(d2, align = 'lccccccccccc', row.names = FALSE,format="latex") %>%
   column_spec(9,width = "0.3in")  %>%
   column_spec(10,width = "0.3in")  %>%
   column_spec(11,width = "0.3in")  %>%
-  column_spec(12,width = "0.3in") 
+  column_spec(12,width = "0.3in") %>%
+  kableExtra::kable_styling(latex_options = "scale_down")
 
 ```
 
@@ -702,7 +703,7 @@ cat(paste0("# Feeding Dives with Locations: ",length(bwFeeding$depid)))
 
 For each individual, we used a Kolmogorov-Smirnov test to compare the distributions of FTLE at the animal's location to the distribution of FTLE for randomly selected backkground points in the study area for that particular individual. 
 
-```{r ksOutputIndividuals, echo=TRUE, message=FALSE, warning=FALSE}
+```{r ksOutputIndividuals, echo=TRUE,fig.align = 'center', message=FALSE, warning=FALSE}
 ## Process Individual Deployments ##
 ksOutput <- data.frame()
 for(i in 1:length(unique(data_Gamm_ALL$depid))){
@@ -825,7 +826,7 @@ For the temporal persistence analysis, we hypothesized that if FTLE features are
 
 Analysis of the randomized simulated tracks (e.g. correlated random walks) showed a negative relationship with FTLE, though the slope was not significantly different from 0. 
 
-```{r ftleCRW_Ar1, echo=TRUE, fig.height=8, fig.width=12, message=FALSE, warning=FALSE }
+```{r ftleCRW_Ar1, echo=TRUE,fig.align = 'center', fig.height=8, fig.width=12, message=FALSE, warning=FALSE }
 # Use previously processed model to save time
 if(!exists("feed_glmmPQL_CRW_CAR1_Hrs")){
   feed_glmmPQL_CRW_CAR1_Hrs <- 
@@ -853,7 +854,7 @@ summary(feed_glmmPQL_CRW_CAR1_Hrs)
 
 ##### Plot CRW + Blue Whale Models
 
-```{r ftle_glmmCRW_Plot, echo=TRUE, fig.height=8, fig.width=12, message=FALSE, warning=FALSE}
+```{r ftle_glmmCRW_Plot, echo=TRUE,fig.align = 'center', fig.height=8, fig.width=12, message=FALSE, warning=FALSE}
 ## Figure 3 A #### 
 # Random Site Selection Model
 ggplot() + 
@@ -907,7 +908,7 @@ ggsave("Output/Figure4a.png", width=12, height=8, units = "in", dpi=400)
 When we explored the temporal persistence of FTLE features, we found that the relationship between blue whale feeding site selection and FTLE did not persist for temporal shifts greater than 24-hours. 
 
 ##### 24 Hour Time-Shift
-```{r ftleShiftP24_Ar1, echo=TRUE, fig.height=8, fig.width=12, message=TRUE, warning=FALSE}
+```{r ftleShiftP24_Ar1, echo=TRUE,fig.align = 'center', fig.height=8, fig.width=12, message=TRUE, warning=FALSE}
 # Use previously processed model to save time
 if(!exists("feed_glmmPQL_p24_CAR1_Hrs")){
   feed_glmmPQL_p24_CAR1_Hrs <- 
@@ -934,7 +935,7 @@ summary(feed_glmmPQL_p24_CAR1_Hrs)
 ```
 
 ##### 48 Hour Time-Shift
-```{r ftleShiftP48_Ar1, echo=TRUE, fig.height=8, fig.width=12, message=TRUE, warning=FALSE}
+```{r ftleShiftP48_Ar1, echo=TRUE,fig.align = 'center', fig.height=8, fig.width=12, message=TRUE, warning=FALSE}
 # Use previously processed model to save time
 if(!exists("feed_glmmPQL_p48_CAR1_Hrs")){
   feed_glmmPQL_p48_CAR1_Hrs <- 
@@ -961,7 +962,8 @@ summary(feed_glmmPQL_p48_CAR1_Hrs)
 ```
 
 ##### 96 Hour Time-Shift
-```{r ftleShiftP96_Ar1, echo=TRUE, fig.height=8, fig.width=12, message=TRUE, warning=FALSE}
+
+```{r ftleShiftP96_Ar1, echo=TRUE,fig.align = 'center', fig.height=8, fig.width=12, message=TRUE, warning=FALSE}
 # Use previously processed model to save time
 if(!exists("feed_glmmPQL_p96_CAR1_Hrs")){
   feed_glmmPQL_p96_CAR1_Hrs <- 
@@ -988,7 +990,7 @@ summary(feed_glmmPQL_p96_CAR1_Hrs)
 ```
 
 ##### 192 Hour Time-Shift
-```{r ftleShiftP192_Ar1, echo=TRUE, fig.height=8, fig.width=12, message=FALSE, warning=FALSE}
+```{r ftleShiftP192_Ar1, echo=TRUE,fig.align = 'center', fig.height=8, fig.width=12, message=FALSE, warning=FALSE}
 # Use previously processed model to save time
 if(!exists("feed_glmmPQL_p192_CAR1_Hrs")){
   feed_glmmPQL_p192_CAR1_Hrs <- 
@@ -1018,7 +1020,7 @@ summary(feed_glmmPQL_p192_CAR1_Hrs)
 
 Varying the time-shifts shows a decrease is the relationship between FTLE and the probability of feeding at increasing time-shift values. *(The +24 hour and +192 hour Models were both significant)* Models with timeshifts > 24 hours showed a decreasing slope with increasing time-shift values.  
 
-```{r ftleShiftPlotAll, echo=TRUE, fig.height=8, fig.width=12, message=TRUE, warning=FALSE}
+```{r ftleShiftPlotAll, echo=TRUE, fig.align = 'center',fig.height=8, fig.width=12, message=TRUE, warning=FALSE}
 ggplot() + 
   geom_line(data=testSetp24,
             aes(x=ftle48,y = fit, color=model), size = 2)+
@@ -1056,7 +1058,7 @@ ggplot() +
 
 Supplemental Table 1 GLMM Model results for Null Models used in this study.
 
-```{r suppTable1, echo=TRUE, fig.width=12, message=FALSE, warning=FALSE}
+```{r suppTable1, echo=TRUE,fig.align = 'center', fig.width=12, message=FALSE, warning=FALSE}
 suppT1 <- as.data.frame(
   rbind(c("Blue Whales",
           as.data.frame(round(coef(summary(
@@ -1170,7 +1172,7 @@ divesHMM2state %>%
 
 #### Fit the model:
 
-```{r fit_hmm2State, cache = TRUE, echo=TRUE, fig.height=8, fig.width=12, message=FALSE, warning=FALSE}
+```{r fit_hmm2State, cache = TRUE, echo=TRUE,fig.align = 'center', fig.height=8, fig.width=12, message=FALSE, warning=FALSE}
 # Fit HMM
 # Feeding vs Not Feeding
 # Initial parameters (known states are based on # lunges)
@@ -1195,7 +1197,7 @@ betaF <- dive_hmm_feeding_ftleQ$mle$beta
 
 These probabilities reflect the long-term proportion of time the model spends in each state as a function of FTLE. They can be interpreted as the long-term probabilities of being in each state at different values of FTLE.
 
-```{r plot_hmm_2_Stationary, cache = TRUE, echo=TRUE, fig.height=8, fig.width=12, message=FALSE, warning=FALSE}
+```{r plot_hmm_2_Stationary, cache = TRUE, echo=TRUE,fig.align = 'center', fig.height=8, fig.width=12, message=FALSE, warning=FALSE}
 # Compute stationary distribution for each row 
 stat <- stationary(m =dive_hmm_feeding_ftleQ,covs=covs)
 stat_DF <- as.data.frame(stat) %>% 
@@ -1247,7 +1249,7 @@ pHMM2
 
 #### Comparison of GLMM and HMM
 
-```{r plotGLMMVSHMM, echo=TRUE, fig.height=8, fig.width=12, message=FALSE, warning=FALSE}
+```{r plotGLMMVSHMM, echo=TRUE,fig.align = 'center', fig.height=8, fig.width=12, message=FALSE, warning=FALSE}
 ggplot() +
   geom_ribbon(data=testSet, 
               aes(x=ftle48,ymin = lwr, ymax = upr, 
@@ -1286,7 +1288,7 @@ and it is represented in Lunges per hour.
 
 To account for differences in feeding rates between individuals, we normalize the feeding rate by percentile rank for each individual. For this analysis, we split the normalized distribution of feeding rates into groups that will make up the states in a HMM. The states are split at the 25th and 75th percentiles, separating the tails (Light and Heavy) from the bulk of the feeding (i.e. middle 50% of feeding rates).   
 
-```{r individualFR, echo=TRUE, fig.height=8, fig.width=12, message=FALSE, warning=FALSE}
+```{r individualFR, echo=TRUE, fig.align = 'center',fig.height=8, fig.width=12, message=FALSE, warning=FALSE}
 p1 <- ggplot() +
   geom_density(data=bwFeedingOverall,
                aes(x=feedingRateHR,group=depid,color=depid),size=1.25) +
@@ -1320,7 +1322,7 @@ p1
 
 Here we show the states identified for the mean distribution, which will be used later in the analysis. 
 
-```{r hmmDetermineFRPercentiles, echo=TRUE, fig.height=8, fig.width=12, message=FALSE, warning=FALSE}
+```{r hmmDetermineFRPercentiles, echo=TRUE,fig.align = 'center', fig.height=8, fig.width=12, message=FALSE, warning=FALSE}
 percentileFRlwr <-0.25
 percentileFRupr <- 0.75
 
@@ -1438,7 +1440,7 @@ dives_prepped4state <- prepData(divesHMM4state, type = "LL",
 ```
 
 #### Fit the model:
-```{r fit_hmm4state, cache = TRUE, echo=TRUE, fig.height=8, fig.width=12, message=FALSE, warning=FALSE}
+```{r fit_hmm4state, cache = TRUE, echo=TRUE,fig.align = 'center', fig.height=8, fig.width=12, message=FALSE, warning=FALSE}
 # Initial parameters (known states are based on # lunges)
 step_parsFRQ2 <- dives_prepped4state %>% 
   group_by(stateFeedingRate) %>% 
@@ -1463,7 +1465,7 @@ plot(dive_hmm_FeedingRate2_ftleQ, ask = FALSE,
 
 #### Stationary State Probabilities
 
-```{r plot_hmm_4_Stationary, cache = TRUE, echo=TRUE, fig.height=8, fig.width=14, message=FALSE, warning=FALSE}
+```{r plot_hmm_4_Stationary, cache = TRUE, echo=TRUE,fig.align = 'center', fig.height=8, fig.width=12, message=FALSE, warning=FALSE}
 ci<-stationaryCI(dive_hmm_FeedingRate2_ftleQ)
 ciDFlwr <- data.frame(ftle = ci$xValues) %>% 
   cbind(ci$lowerCI) %>% 
@@ -1572,7 +1574,7 @@ Here we use the weighted distribution of feeding rates to estimate the overall f
 $$  Feeding Rate _{(FTLE_i)} = \sum_{state=1}^{4}{ Stationary Probability_{state_{FTLE_i}} * FeedingRate_{state}} $$
 We made the same calculations using the upper and lower Confidence Intervals of the model. In the plot below, we show these estimated feeding rates for an 'average whale' in our dataset, as well as the weighted density distribution of FTLE that the animals in our study encountered. Vertical lines are the 5th,50th and 95th perceniles of that distrubution.
 
-```{r estimatedFR,cache = TRUE, echo=TRUE, fig.height=8, fig.width=12, message=FALSE, warning=FALSE}
+```{r estimatedFR,cache = TRUE, echo=TRUE,fig.align = 'center', fig.height=8, fig.width=12, message=FALSE, warning=FALSE}
 feeding_rates <- 
   data.frame(stateFeedingRate = c(1,2,3,4),
              feedingRateHr = c(0.0,lightMean,moderateMean,heavyMean),

@@ -30,3 +30,4 @@ Models/feed_glmmPQL_p48_CAR1_Hrs.rds
 Models/feed_glmmPQL_p96_CAR1_Hrs.rds
 LagrangianMethodsFR2.Rmd
 Output/GIF_files/*
+*.png

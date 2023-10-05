@@ -1,5 +1,6 @@
 # Blue Whales and Lagrangian Features
- This repository contains the code and processed data to generate the analysis and figures in the manuscript *Blue whales increase feeding rates at fine-scale ocean features* (currently in review). Authors: James A. Fahlbush, Max F. Czapanskiy, John Calambokidis, David E. Cade, Briana Abrahms, Elliott L. Hazen and Jeremy A. Goldbogen
+ This repository contains the code and processed data to generate the analysis and figures in the manuscript *Blue whales increase feeding rates at fine-scale ocean features*, 2022 Proceedings B of the Royal Society. Authors: James A. Fahlbusch, Max F. Czapanskiy, John Calambokidis, David E. Cade, Briana Abrahms, Elliott L. Hazen and Jeremy A. Goldbogen
+ https://royalsocietypublishing.org/doi/full/10.1098/rspb.2022.1180
 
 ### How to cite
 
